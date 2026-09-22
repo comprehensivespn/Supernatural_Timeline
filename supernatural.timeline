@@ -1,0 +1,6216 @@
+{
+  "file": {
+    "id": "supernatural-timeline",
+    "uid": "supercringtural-119567",
+    "type": "timeline",
+    "title": "Supernatural",
+    "appVersion": "0.7.0-alpha.2",
+    "start": 2003,
+    "end": 2027,
+    "detailLevel": 5,
+    "theme": "nature-bluehydrangea",
+    "layout": "Horizontal",
+    "branchOrdering": "later-first",
+    "useMaps": true,
+    "useWiki": true,
+    "groups": [
+      {
+        "id": "g-main",
+        "title": "Main",
+        "order": 0,
+        "stack": 0,
+        "hideBand": true,
+        "visible": true,
+        "locked": false,
+        "belowLine": false
+      },
+      {
+        "id": "g-3",
+        "title": "Journal sources",
+        "order": 1,
+        "stack": 2,
+        "hideBand": true,
+        "visible": true,
+        "locked": false,
+        "belowLine": false
+      },
+      {
+        "id": "g-4",
+        "title": "Other",
+        "order": 2,
+        "stack": 3,
+        "hideBand": true,
+        "visible": true,
+        "locked": false,
+        "belowLine": false
+      },
+      {
+        "id": "g-5",
+        "title": "Social media",
+        "order": 3,
+        "stack": 4,
+        "hideBand": true,
+        "visible": true,
+        "locked": false,
+        "belowLine": false
+      },
+      {
+        "id": "g-6",
+        "title": "Fans and others",
+        "order": 4,
+        "stack": 5,
+        "hideBand": true,
+        "visible": true,
+        "locked": false,
+        "belowLine": false
+      },
+      {
+        "id": "g-7",
+        "title": "Conferences and events",
+        "order": 5,
+        "stack": 6,
+        "hideBand": true,
+        "visible": true,
+        "locked": false,
+        "belowLine": false
+      }
+    ],
+    "dateFormat": "DMY",
+    "useCalendar": true,
+    "useSecondaryBg": false,
+    "showDurations": true,
+    "hideSpanConnectors": false,
+    "font": "Inter",
+    "useSpreadsheet": true
+  },
+  "elements": [
+    {
+      "id": "span-001393550722",
+      "type": "span",
+      "title": "Season 1",
+      "start": 2005.1854838709678,
+      "end": 2006.3413978494623,
+      "groupId": "g-main",
+      "color": "#3182BD",
+      "tags": [
+        "Season 1"
+      ],
+      "startLabel": "2005-03-08",
+      "endLabel": "2006-05-04",
+      "lng": -123.0935531,
+      "lat": 49.269932,
+      "approxStart": true,
+      "noteFile": "span-001393550722.md",
+      "extendFrom": "span-000930324256"
+    },
+    {
+      "id": "span-000930324256",
+      "type": "span",
+      "title": "Pre-Season 1",
+      "start": 2000,
+      "end": 2005.1854838709678,
+      "groupId": "g-main",
+      "color": "#54990F",
+      "endLabel": "2005-03-08",
+      "approxStart": true,
+      "approxEnd": true
+    },
+    {
+      "id": "span-001788435789",
+      "type": "span",
+      "title": "Early seasons",
+      "start": 2005.1854838709678,
+      "end": 2010.3655913978494,
+      "groupId": "g-main",
+      "color": "#B5CF6B",
+      "startLabel": "2005-03-08",
+      "approxStart": true,
+      "endLabel": "2010-05-13",
+      "spanSize": "thick"
+    },
+    {
+      "id": "span-003774456270",
+      "type": "span",
+      "title": "Season 2 ",
+      "start": 2006.529569892473,
+      "end": 2007.3763440860214,
+      "groupId": "g-main",
+      "color": "#E6550D",
+      "startLabel": "2006-07-12",
+      "endLabel": "2007-05-17",
+      "tags": [
+        "Season 2"
+      ],
+      "extendFrom": "span-002984978372"
+    },
+    {
+      "id": "span-003984723790",
+      "type": "span",
+      "title": "Script development",
+      "start": 2000,
+      "end": 2005.1854838709678,
+      "groupId": "g-main",
+      "color": "#A3CC7A",
+      "startLabel": "2000-01-01",
+      "endLabel": "2005-03-08",
+      "parent": "span-001637507084",
+      "approxStart": true,
+      "approxEnd": true
+    },
+    {
+      "id": "span-001637507084",
+      "type": "span",
+      "title": "Pre-development",
+      "start": 2000,
+      "end": 2005.1854838709678,
+      "groupId": "g-main",
+      "color": "#78B33E",
+      "startLabel": "2000-01-01",
+      "endLabel": "2005-03-08",
+      "parent": "span-000930324256",
+      "approxStart": true,
+      "approxEnd": true
+    },
+    {
+      "id": "span-003197115111",
+      "type": "span",
+      "title": "Pilot 1.01",
+      "start": 2005.1854838709678,
+      "end": 2005.2123655913979,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2005-03-08",
+      "endLabel": "2005-03-18",
+      "lat": null,
+      "approxStart": true,
+      "parent": "span-003717202054",
+      "spanSize": "thin",
+      "tags": [
+        "Season 1",
+        "Filming",
+        "David Nutter Dir.",
+        "Erik Krikpe Scr."
+      ],
+      "sources": [
+        {
+          "title": "Filming locations",
+          "url": "https://www.google.com/maps/d/viewer?mid=1EVY3l1vpEOKIptKqUS8MRFA2h9kSN1cI&ll=34.20267555041639%2C-118.58542260513741&z=10",
+          "description": "Film locations as per the SupernaturalWiki"
+        }
+      ],
+      "approxEnd": true,
+      "noteFile": "span-003197115111.md",
+      "description": "Pilot"
+    },
+    {
+      "id": "span-003641936344",
+      "type": "span",
+      "title": "Film. Interim between seasons",
+      "start": 2006.2555555555555,
+      "end": 2006.529569892473,
+      "groupId": "g-main",
+      "color": "#999999",
+      "startLabel": "2006-04-03",
+      "endLabel": "2006-07-12",
+      "tags": [
+        "Interim",
+        "Between seasons",
+        "Filming"
+      ],
+      "extendFrom": "span-003717202054",
+      "noteFile": "span-003641936344.md"
+    },
+    {
+      "id": "span-003717202054",
+      "type": "span",
+      "title": "Filming",
+      "start": 2005.1854838709678,
+      "end": 2006.2555555555555,
+      "groupId": "g-main",
+      "color": "#6BAED6",
+      "startLabel": "2005-03-08",
+      "endLabel": "2006-04-03",
+      "approxEnd": true,
+      "approxStart": true,
+      "noteFile": "span-003717202054.md",
+      "wikiUrl": "https://supernaturalwiki.com/Filming_dates#Season_1",
+      "sources": [
+        {
+          "title": "Promo pics potential source",
+          "url": "https://jessm78.livejournal.com",
+          "description": "The wiki links this livejournal account as the source of information for the pictures. I did look around a bit (not exhaustively) and I think is likely the refered pictures where originally posted by Andreas_ri ( https://andreas-ri.livejournal.com/profile/ ), that had a website with supernatural media called Spnmedia.net. This site was also referrenced on the Dean_Sam community ( https://dean-sam.livejournal.com/profile/ ) when I tried to find the images. Most image links are lost."
+        }
+      ],
+      "parent": "span-001393550722",
+      "tags": [
+        "Season 1",
+        "Filming"
+      ]
+    },
+    {
+      "id": "era-003660701859",
+      "type": "era",
+      "title": "Supernatural",
+      "start": 2005.1854838709678,
+      "end": 2020.8833333333332,
+      "color": "#F4D05A",
+      "startLabel": "2005-03-08",
+      "endLabel": "2020-11-19"
+    },
+    {
+      "id": "span-000520560980",
+      "type": "span",
+      "title": "Film. Interim",
+      "start": 2005.2123655913979,
+      "end": 2005.5456989247311,
+      "groupId": "g-main",
+      "color": "#999999",
+      "startLabel": "2005-03-18",
+      "endLabel": "2005-07-18",
+      "approxStart": true,
+      "approxEnd": true,
+      "spanSize": "thin",
+      "hideDetails": false,
+      "tags": [
+        "Interim",
+        "Season 1",
+        "Filming"
+      ],
+      "extendFrom": "span-003197115111",
+      "noteFile": "span-000520560980.md"
+    },
+    {
+      "id": "span-003608295210",
+      "type": "span",
+      "title": "Airing",
+      "start": 2005.7,
+      "end": 2006.3413978494623,
+      "groupId": "g-main",
+      "color": "#6BAED6",
+      "startLabel": "2005-09-13",
+      "endLabel": "2006-05-04",
+      "parent": "span-001393550722",
+      "noteFile": "span-003608295210.md",
+      "tags": [
+        "Season 1",
+        "Airing"
+      ]
+    },
+    {
+      "id": "span-002312955619",
+      "type": "span",
+      "title": "1.02 ",
+      "start": 2005.5456989247311,
+      "end": 2005.5860215053763,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2005-07-18",
+      "endLabel": "2005-08-02",
+      "approxStart": true,
+      "approxEnd": true,
+      "spanSize": "thin",
+      "extendFrom": "span-000520560980",
+      "description": "Wendigo",
+      "tags": [
+        "Season 1",
+        "Filming",
+        "David Nutter Dir.",
+        "Erik Kripke Teleplay",
+        "Ron Milbauer Story",
+        "Terri Hughes Burton Story",
+        "Erik Krikpe Scr."
+      ],
+      "noteFile": "span-002312955619.md",
+      "sources": [
+        {
+          "title": "Filming locations",
+          "url": "https://www.google.com/maps/d/viewer?mid=1PPlAJYwClNBt28Zfd5FoSlZ2ABHQ1UkC&ll=49.498207917084095%2C-123.14671151133537&z=10",
+          "description": "Film locations as per the SupernaturalWiki"
+        }
+      ]
+    },
+    {
+      "id": "span-002466864762",
+      "type": "span",
+      "title": "1.07",
+      "start": 2005.5860215053763,
+      "end": 2005.6129032258063,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2005-08-02",
+      "endLabel": "2005-08-12",
+      "spanSize": "thin",
+      "noteFile": "span-002466864762.md",
+      "approxStart": true,
+      "extendFrom": "span-002312955619",
+      "approxEnd": true,
+      "sources": [
+        {
+          "title": "Filming locations",
+          "url": "https://www.google.com/maps/d/viewer?mid=1as2qKikcbQaYNJhQ5gFlAsI0zxiRXOxZ&ll=49.22888616828008%2C-123.06216872491802&z=11",
+          "description": "Film locations as per the SupernaturalWiki"
+        }
+      ],
+      "tags": [
+        "Season 1",
+        "Filming",
+        "David Jackson Dir.",
+        "John Shiban Scr."
+      ],
+      "description": "Hook Man"
+    },
+    {
+      "id": "span-002352191925",
+      "type": "span",
+      "title": "1.03",
+      "start": 2005.6129032258063,
+      "end": 2005.6451612903224,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2005-08-12",
+      "endLabel": "2005-08-24",
+      "spanSize": "thin",
+      "noteFile": "span-002352191925.md",
+      "extendFrom": "span-002466864762",
+      "sources": [
+        {
+          "title": "Filming locations",
+          "url": "https://www.google.com/maps/d/viewer?mid=1rb5oPD_uTO-kNXbemD5ZbJKdZFCHYFT5&ll=49.2123991150461%2C-123.0875115685373&z=10",
+          "description": "Film locations as per the SupernaturalWiki"
+        }
+      ],
+      "approxStart": true,
+      "approxEnd": true,
+      "tags": [
+        "Season 1",
+        "Filming",
+        "Kim Manners Dir.",
+        "Sera Gamble Scr.",
+        "Raelle Tucker Scr."
+      ],
+      "description": "Dead in the Water"
+    },
+    {
+      "id": "span-002305551417",
+      "type": "span",
+      "title": "1.04",
+      "start": 2005.6451612903224,
+      "end": 2005.6722222222222,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2005-08-24",
+      "endLabel": "2005-09-03",
+      "spanSize": "thin",
+      "noteFile": "span-002305551417.md",
+      "extendFrom": "span-002352191925",
+      "sources": [
+        {
+          "title": "Filming locations",
+          "url": "https://www.google.com/maps/d/viewer?mid=1qvJ-6qkjx3E4bBE5BFAU0loUg137npeK&ll=42.47935976557962%2C-122.39949366970617&z=5",
+          "description": "Film locations as per the SupernaturalWiki"
+        }
+      ],
+      "approxStart": true,
+      "approxEnd": true,
+      "tags": [
+        "Season 1",
+        "Filming",
+        "Robert Singer Dir.",
+        "Richard Hatem Scr."
+      ],
+      "description": "Phantom Traveler"
+    },
+    {
+      "id": "span-000354058987",
+      "type": "span",
+      "title": "1.05",
+      "start": 2005.6722222222222,
+      "end": 2005.7083333333335,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2005-09-03",
+      "endLabel": "2005-09-16",
+      "extendFrom": "span-002305551417",
+      "spanSize": "thin",
+      "noteFile": "span-000354058987.md",
+      "approxStart": true,
+      "approxEnd": true,
+      "sources": [
+        {
+          "title": "Filming locations",
+          "url": "https://www.google.com/maps/d/viewer?mid=1OkyP3t5kSig6DqVRpyx1pskvz4ddxoX9&ll=49.20855911397548%2C-123.02498629826745&z=12",
+          "description": "Film locations as per the SupernaturalWiki"
+        }
+      ],
+      "tags": [
+        "Season 1",
+        "Filming",
+        "Peter Ellis Dir.",
+        "Erik Kripke Teleplay",
+        "Erik Krikpe Scr.",
+        "Ron Milbauer Story",
+        "Terri Hughes Burton Story"
+      ],
+      "description": "Bloody Mary"
+    },
+    {
+      "id": "span-002917384600",
+      "type": "span",
+      "title": "1.06",
+      "start": 2005.7083333333335,
+      "end": 2005.7416666666668,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2005-09-16",
+      "endLabel": "2005-09-28",
+      "spanSize": "thin",
+      "extendFrom": "span-000354058987",
+      "approxStart": true,
+      "approxEnd": true,
+      "noteFile": "span-002917384600.md",
+      "sources": [
+        {
+          "title": "Filming locations",
+          "url": "https://www.google.com/maps/d/viewer?mid=1JXcUCzRWmjYRV9Aoa3ZdQaJKKB--CX68&ll=49.253766684462185%2C-123.12559291110134&z=12",
+          "description": "Filming locations as per the SupernaturalWiki"
+        }
+      ],
+      "tags": [
+        "Season 1",
+        "Filming",
+        "Robert Duncan McNeill Dir.",
+        "John Shiban Scr."
+      ],
+      "description": "Skin"
+    },
+    {
+      "id": "span-002794595148",
+      "type": "span",
+      "title": "1.08",
+      "start": 2005.7416666666668,
+      "end": 2005.768817204301,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2005-09-28",
+      "endLabel": "2005-10-08",
+      "extendFrom": "span-002917384600",
+      "spanSize": "thin",
+      "noteFile": "span-002794595148.md",
+      "sources": [
+        {
+          "title": "Filming locations",
+          "url": "https://www.google.com/maps/d/viewer?mid=1FPWywloEEqDt_LfLnOvGceUpOmr4tvzg&ll=49.184984448535516%2C-123.00965185891447&z=11",
+          "description": "Filming locations as per the SupernaturalWiki"
+        }
+      ],
+      "approxStart": true,
+      "approxEnd": true,
+      "tags": [
+        "Season 1",
+        "Filming",
+        "Kim Manners Dir.",
+        "Rachel Nave Scr.",
+        "Bill Coakley Scr."
+      ],
+      "description": "Bugs"
+    },
+    {
+      "id": "span-001005198788",
+      "type": "span",
+      "title": "1.09",
+      "start": 2005.768817204301,
+      "end": 2005.8010752688172,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2005-10-08",
+      "endLabel": "2005-10-20",
+      "noteFile": "span-001005198788.md",
+      "sources": [
+        {
+          "title": "Filming locations",
+          "url": "https://www.google.com/maps/d/viewer?mid=1F_3cgHrA1S1H90AzvtrWcu-jvHXBR1Y2&ll=49.210379637177226%2C-123.08711473645235&z=12",
+          "description": "Film locations as per the SupernaturalWiki"
+        }
+      ],
+      "extendFrom": "span-002794595148",
+      "spanSize": "thin",
+      "approxStart": true,
+      "approxEnd": true,
+      "tags": [
+        "Season 1",
+        "Filming",
+        "Ken Girotti Dir.",
+        "Erik Krikpe Scr."
+      ],
+      "description": "Home"
+    },
+    {
+      "id": "span-003385986909",
+      "type": "span",
+      "title": "1.10",
+      "start": 2005.8010752688172,
+      "end": 2005.8252688172042,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2005-10-20",
+      "endLabel": "2005-10-29",
+      "extendFrom": "span-001005198788",
+      "spanSize": "thin",
+      "sources": [
+        {
+          "title": "Filming locations",
+          "url": "https://www.google.com/maps/d/viewer?mid=1WCYrHR6Nr54lTSOmBwDv4-knCzwV80KV&ll=49.23074546459312%2C-122.89733374120507&z=13",
+          "description": "Film locations as per the SupernaturalWiki"
+        }
+      ],
+      "approxStart": true,
+      "approxEnd": true,
+      "noteFile": "span-003385986909.md",
+      "tags": [
+        "Season 1",
+        "Filming",
+        "Guy Norman Bee Dir.",
+        "Richard Hatem Scr."
+      ],
+      "description": "Asylum"
+    },
+    {
+      "id": "span-004174030479",
+      "type": "span",
+      "title": "1.11",
+      "start": 2005.8583333333333,
+      "end": 2005.8916666666667,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2005-11-10",
+      "endLabel": "2005-11-22",
+      "spanSize": "thin",
+      "approxStart": true,
+      "approxEnd": true,
+      "sources": [
+        {
+          "title": "Filming locations",
+          "url": "https://www.google.com/maps/d/viewer?mid=1E_6TZanTucEfouYWttyb42npQgixZAOL&ll=49.15043738344253%2C-122.78719155154418&z=12",
+          "description": "Film locations as per the SupernaturalWiki"
+        }
+      ],
+      "noteFile": "span-004174030479.md",
+      "extendFrom": "span-001492052098",
+      "tags": [
+        "Season 1",
+        "Filming",
+        "Kim Manners Dir.",
+        "Patrick Sean Smith Story",
+        "John Shiban Teleplay",
+        "John Shiban Scr."
+      ]
+    },
+    {
+      "id": "span-001492052098",
+      "type": "span",
+      "title": "1.12",
+      "start": 2005.8252688172042,
+      "end": 2005.8583333333333,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2005-10-29",
+      "endLabel": "2005-11-10",
+      "approxStart": true,
+      "approxEnd": true,
+      "spanSize": "thin",
+      "sources": [
+        {
+          "title": "Filming locations",
+          "url": "https://www.google.com/maps/d/viewer?mid=1ZXLbDha_vDYPtDdGMEYNgI856X7JYavx&ll=0%2C0&z=12",
+          "description": "Film locations as per the SupernaturalWiki"
+        }
+      ],
+      "noteFile": "span-001492052098.md",
+      "extendFrom": "span-003385986909",
+      "tags": [
+        "Season 1",
+        "Filming",
+        "Allan Kroeker Dir.",
+        "Sera Gamble Scr.",
+        "Raelle Tucker Scr."
+      ],
+      "description": "Faith"
+    },
+    {
+      "id": "span-000814336375",
+      "type": "span",
+      "title": "1.13",
+      "start": 2005.8916666666667,
+      "end": 2005.9193548387098,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2005-11-22",
+      "endLabel": "2005-12-02",
+      "spanSize": "thin",
+      "approxStart": true,
+      "approxEnd": true,
+      "sources": [
+        {
+          "title": "Filming locations",
+          "url": "https://www.google.com/maps/d/viewer?mid=1dBq3C3hxYR0snNFa1wIZDY3gxjOLkIwB&ll=49.10486154842656%2C-123.1310841057659&z=12",
+          "description": "Film locations as per the SupernaturalWiki"
+        }
+      ],
+      "noteFile": "span-000814336375.md",
+      "extendFrom": "span-004174030479",
+      "tags": [
+        "Season 1",
+        "Filming",
+        "Paul Shapiro Dir.",
+        "Eugenie Ross-Leming Scr.",
+        "Brad Buckner Scr."
+      ],
+      "description": "Route 666"
+    },
+    {
+      "id": "span-002456716288",
+      "type": "span",
+      "title": "1.14",
+      "start": 2005.9193548387098,
+      "end": 2005.9516129032259,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2005-12-02",
+      "endLabel": "2005-12-14",
+      "approxStart": true,
+      "approxEnd": true,
+      "extendFrom": "span-000814336375",
+      "spanSize": "thin",
+      "noteFile": "span-002456716288.md",
+      "sources": [
+        {
+          "title": "Filming locations",
+          "url": "https://www.google.com/maps/d/viewer?mid=1zjH53GNxbJ4wIWKryGcjZeyNersjTV-4&ll=0%2C0&z=11",
+          "description": "Film locations as per the SupernaturalWiki"
+        }
+      ],
+      "tags": [
+        "Season 1",
+        "Filming",
+        "Phil Sgriccia Dir.",
+        "Sera Gamble Scr.",
+        "Raelle Tucker Scr."
+      ],
+      "description": "Nightmare"
+    },
+    {
+      "id": "span-004087836259",
+      "type": "span",
+      "title": "Interim",
+      "start": 2005.9569892473119,
+      "end": 2006.005376344086,
+      "groupId": "g-main",
+      "color": "#999999",
+      "startLabel": "2005-12-16",
+      "endLabel": "2006-01-03",
+      "spanSize": "thin",
+      "approxStart": true,
+      "approxEnd": true,
+      "tags": [
+        "Interim",
+        "Season 1",
+        "Filming"
+      ],
+      "noteFile": "span-004087836259.md",
+      "extendFrom": "span-003833216405"
+    },
+    {
+      "id": "span-000992932671",
+      "type": "span",
+      "title": "1.15",
+      "start": 2006.005376344086,
+      "end": 2006.024193548387,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2006-01-03",
+      "endLabel": "2006-01-10",
+      "spanSize": "thin",
+      "extendFrom": "span-004087836259",
+      "noteFile": "span-000992932671.md",
+      "tags": [
+        "Season 1",
+        "Filming",
+        "Peter Ellis Dir.",
+        "John Shiban Scr."
+      ],
+      "sources": [
+        {
+          "title": "Filming locations",
+          "url": "https://www.google.com/maps/d/viewer?mid=1uLzYCLiKmlYUzTZGrGrZ4t7Ay8dcmnu0&ll=49.23954491894776%2C-122.87323231429589&z=12",
+          "description": "Film locations as per the SupernaturalWiki"
+        }
+      ],
+      "description": "The Benders",
+      "approxStart": true,
+      "approxEnd": true
+    },
+    {
+      "id": "span-000115128377",
+      "type": "span",
+      "title": "1.16",
+      "start": 2006.024193548387,
+      "end": 2006.0537634408602,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2006-01-10",
+      "endLabel": "2006-01-21",
+      "spanSize": "thin",
+      "extendFrom": "span-000992932671",
+      "noteFile": "span-000115128377.md",
+      "tags": [
+        "Season 1",
+        "Filming",
+        "Kim Manners Dir.",
+        "Erik Krikpe Scr."
+      ],
+      "sources": [
+        {
+          "title": "Filming locations",
+          "url": "https://www.google.com/maps/d/viewer?mid=1HLMEckgNVy8BgnzMEOuZfJ68TZdttBft&ll=49.28305213111032%2C-123.11099544960551&z=17",
+          "description": "Film locations as per the SupernaturalWiki"
+        }
+      ],
+      "description": "Shadow",
+      "approxStart": true,
+      "approxEnd": true
+    },
+    {
+      "id": "span-003091313602",
+      "type": "span",
+      "title": "1.17",
+      "start": 2006.0537634408602,
+      "end": 2006.0863095238094,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2006-01-21",
+      "endLabel": "2006-02-02",
+      "spanSize": "thin",
+      "extendFrom": "span-000115128377",
+      "noteFile": "span-003091313602.md",
+      "tags": [
+        "Season 1",
+        "Filming",
+        "Chris Long Dir.",
+        "Trey Callaway Scr."
+      ],
+      "sources": [
+        {
+          "title": "Filming locations",
+          "url": "https://www.google.com/maps/d/viewer?mid=1DaKPr3bWuqIgKuGtYTSufECgQpcxifAc&ll=49.15483296786446%2C-122.90351718253326&z=11",
+          "description": "Film locations as per the SupernaturalWiki"
+        }
+      ],
+      "description": "Hell House",
+      "approxStart": true,
+      "approxEnd": true
+    },
+    {
+      "id": "span-002388851670",
+      "type": "span",
+      "title": "1.18",
+      "start": 2006.0863095238094,
+      "end": 2006.1220238095236,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2006-02-02",
+      "endLabel": "2006-02-14",
+      "spanSize": "thin",
+      "extendFrom": "span-003091313602",
+      "noteFile": "span-002388851670.md",
+      "tags": [
+        "Season 1",
+        "Filming",
+        "Whitney Ransick Dir.",
+        "Daniel Knauf Scr."
+      ],
+      "sources": [
+        {
+          "title": "Filming locations",
+          "url": "https://www.google.com/maps/d/viewer?mid=1Oqr2oUy1acU3Yhe8697erq6mvml6lTMk&ll=49.271001477754936%2C-122.97373651557663&z=12",
+          "description": "Film locations as per the SupernaturalWiki"
+        }
+      ],
+      "description": "Something Wicked",
+      "approxStart": true,
+      "approxEnd": true
+    },
+    {
+      "id": "span-003416614468",
+      "type": "span",
+      "title": "1.19",
+      "start": 2006.1220238095236,
+      "end": 2006.154761904762,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2006-02-14",
+      "endLabel": "2006-02-25",
+      "extendFrom": "span-002388851670",
+      "spanSize": "thin",
+      "noteFile": "span-003416614468.md",
+      "tags": [
+        "Season 1",
+        "Filming",
+        "Phil Sgriccia Dir.",
+        "David Ehrman Scr."
+      ],
+      "sources": [
+        {
+          "title": "Filming locations",
+          "url": "https://www.google.com/maps/d/viewer?mid=1SQURIFtQhNDv6yMR2KJFbTXNSfLGCRDf&ll=49.252511348164674%2C-123.14059867543139&z=13",
+          "description": "Film locations as per the SupernaturalWiki"
+        }
+      ],
+      "description": "Provenance",
+      "approxStart": true,
+      "approxEnd": true
+    },
+    {
+      "id": "span-002149964030",
+      "type": "span",
+      "title": "1.20",
+      "start": 2006.154761904762,
+      "end": 2006.1881720430108,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2006-02-25",
+      "endLabel": "2006-03-09",
+      "spanSize": "thin",
+      "extendFrom": "span-003416614468",
+      "noteFile": "span-002149964030.md",
+      "tags": [
+        "Season 1",
+        "Filming",
+        "Tony Wharmby Dir.",
+        "Cathryn Humphris Scr.",
+        "John Shiban Scr."
+      ],
+      "sources": [
+        {
+          "title": "Filming locations",
+          "url": "https://www.google.com/maps/d/viewer?mid=1x95Wy95WekdnKaFahGpb47ioEvr6OH2K&ll=49.25242560141298%2C-123.00094883237207&z=11",
+          "description": "Film locations as per the SupernaturalWiki"
+        }
+      ],
+      "description": "Dead Man's Blood",
+      "approxStart": true,
+      "approxEnd": true
+    },
+    {
+      "id": "span-000999811736",
+      "type": "span",
+      "title": "1.21",
+      "start": 2006.1881720430108,
+      "end": 2006.22311827957,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2006-03-09",
+      "endLabel": "2006-03-22",
+      "spanSize": "thin",
+      "extendFrom": "span-002149964030",
+      "noteFile": "span-000999811736.md",
+      "tags": [
+        "Season 1",
+        "Filming",
+        "Robert Singer Dir.",
+        "Sera Gamble Scr.",
+        "Raelle Tucker Scr."
+      ],
+      "sources": [
+        {
+          "title": "Filming locations",
+          "url": "https://www.google.com/maps/d/viewer?mid=1W-u2PbUhfdkx6uRt4hNPz3IkcvtEiyHy&ll=49.23644210778039%2C-123.04831323515388&z=12",
+          "description": "Film locations as per the SupernaturalWiki"
+        }
+      ],
+      "description": "Salvation",
+      "approxStart": true,
+      "approxEnd": true
+    },
+    {
+      "id": "span-003286681049",
+      "type": "span",
+      "title": "1.22",
+      "start": 2006.22311827957,
+      "end": 2006.2555555555555,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2006-03-22",
+      "endLabel": "2006-04-03",
+      "spanSize": "thin",
+      "extendFrom": "span-000999811736",
+      "noteFile": "span-003286681049.md",
+      "tags": [
+        "Season 1",
+        "Filming",
+        "Kim Manners Dir.",
+        "Erik Krikpe Scr."
+      ],
+      "sources": [
+        {
+          "title": "Filming locations",
+          "url": "https://www.google.com/maps/d/viewer?mid=1RIy9EIAR8Vf8p-hFQwA1HvYR3jMsIhGd&ll=49.17855522600592%2C-123.02670240135872&z=11",
+          "description": "Film locations as per the SupernaturalWiki"
+        }
+      ],
+      "description": "Devil's Trap",
+      "approxStart": true,
+      "approxEnd": true
+    },
+    {
+      "id": "span-001088658166",
+      "type": "span",
+      "title": "Interim",
+      "start": 2005.8333333333333,
+      "end": 2005.8527777777776,
+      "groupId": "g-main",
+      "color": "#999999",
+      "startLabel": "2005-11-01",
+      "endLabel": "2005-11-08",
+      "spanSize": "thin",
+      "noteFile": "span-001088658166.md",
+      "tags": [
+        "Airing",
+        "Season 1",
+        "Interim"
+      ],
+      "extendFrom": "span-003112698671"
+    },
+    {
+      "id": "event-000529179821",
+      "type": "event",
+      "title": "Hypothetical filming calendar",
+      "date": 2005.5456989247311,
+      "groupId": "g-main",
+      "parents": [
+        "span-003717202054"
+      ],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-07-18",
+      "thumbnailStyle": "strip",
+      "thumbnailFit": "contain",
+      "noteFile": "event-000529179821.md",
+      "tags": [
+        "Season 1",
+        "Filming calendar"
+      ],
+      "thumbnail": "supernatural/Filming Calendar S.1 Shorter.png"
+    },
+    {
+      "id": "event-003190151164",
+      "type": "event",
+      "title": "Hypothetical filming calendar - Pilot",
+      "date": 2005.1854838709678,
+      "groupId": "g-main",
+      "parents": [
+        "span-003717202054"
+      ],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-03-08",
+      "tags": [
+        "Season 1",
+        "Filming calendar"
+      ],
+      "thumbnailStyle": "strip",
+      "thumbnail": "supernatural/Filming Calendar Pilot.png"
+    },
+    {
+      "id": "era-001284890495",
+      "type": "era",
+      "title": "Pre-Supernatural",
+      "start": 2000,
+      "end": 2005.1854838709678,
+      "color": "#BD9E39",
+      "startLabel": "2000-01-01",
+      "endLabel": "2005-03-08"
+    },
+    {
+      "id": "era-001485473002",
+      "type": "era",
+      "title": "Post-Supernatural",
+      "start": 2020.8833333333332,
+      "end": 2027,
+      "color": "#E7C98B",
+      "startLabel": "2020-11-19"
+    },
+    {
+      "id": "span-001258316976",
+      "type": "span",
+      "title": "Pilot 1.01",
+      "start": 2005.7,
+      "end": 2005.7194444444444,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2005-09-13",
+      "endLabel": "2005-09-20",
+      "noteFile": "span-001258316976.md",
+      "description": "Pilot",
+      "parent": "span-003608295210",
+      "spanSize": "thin",
+      "tags": [
+        "Season 1",
+        "Airing",
+        "David Nutter Dir.",
+        "Erik Krikpe Scr."
+      ]
+    },
+    {
+      "id": "span-002360311263",
+      "type": "span",
+      "title": "1.02",
+      "start": 2005.7194444444444,
+      "end": 2005.738888888889,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2005-09-20",
+      "endLabel": "2005-09-27",
+      "noteFile": "span-002360311263.md",
+      "spanSize": "thin",
+      "extendFrom": "span-001258316976",
+      "tags": [
+        "Season 1",
+        "Airing",
+        "David Nutter Dir.",
+        "Erik Kripke Teleplay",
+        "Ron Milbauer Story",
+        "Terri Hughes Burton Story",
+        "Erik Krikpe Scr."
+      ]
+    },
+    {
+      "id": "span-003112698671",
+      "type": "span",
+      "title": "1.07",
+      "start": 2005.8145161290322,
+      "end": 2005.8333333333333,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2005-10-25",
+      "endLabel": "2005-11-01",
+      "description": "Hook Man",
+      "noteFile": "span-003112698671.md",
+      "spanSize": "thin",
+      "tags": [
+        "Season 1",
+        "Airing",
+        "David Jackson Dir.",
+        "John Shiban Scr."
+      ],
+      "extendFrom": "span-004080943769"
+    },
+    {
+      "id": "span-001247477593",
+      "type": "span",
+      "title": "1.03",
+      "start": 2005.738888888889,
+      "end": 2005.758064516129,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2005-09-27",
+      "endLabel": "2005-10-04",
+      "spanSize": "thin",
+      "description": "Dead in the Water",
+      "noteFile": "span-001247477593.md",
+      "extendFrom": "span-002360311263",
+      "tags": [
+        "Season 1",
+        "Airing",
+        "Kim Manners Dir.",
+        "Sera Gamble Scr.",
+        "Raelle Tucker Scr."
+      ]
+    },
+    {
+      "id": "span-002435112759",
+      "type": "span",
+      "title": "1.04",
+      "start": 2005.758064516129,
+      "end": 2005.77688172043,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2005-10-04",
+      "endLabel": "2005-10-11",
+      "noteFile": "span-002435112759.md",
+      "extendFrom": "span-001247477593",
+      "spanSize": "thin",
+      "description": "Phantom Traveler",
+      "tags": [
+        "Season 1",
+        "Airing",
+        "Robert Singer Dir.",
+        "Richard Hatem Scr."
+      ]
+    },
+    {
+      "id": "span-001158754035",
+      "type": "span",
+      "title": "1.05",
+      "start": 2005.77688172043,
+      "end": 2005.7956989247311,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2005-10-11",
+      "endLabel": "2005-10-18",
+      "noteFile": "span-001158754035.md",
+      "description": "Bloody Mary",
+      "extendFrom": "span-002435112759",
+      "tags": [
+        "Season 1",
+        "Airing",
+        "Peter Ellis Dir.",
+        "Erik Kripke Teleplay",
+        "Erik Krikpe Scr.",
+        "Ron Milbauer Story",
+        "Terri Hughes Burton Story"
+      ],
+      "spanSize": "thin"
+    },
+    {
+      "id": "span-004080943769",
+      "type": "span",
+      "title": "1.06",
+      "start": 2005.7956989247311,
+      "end": 2005.8145161290322,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2005-10-18",
+      "endLabel": "2005-10-25",
+      "noteFile": "span-004080943769.md",
+      "description": "Skin",
+      "spanSize": "thin",
+      "extendFrom": "span-001158754035",
+      "tags": [
+        "Season 1",
+        "Airing",
+        "Robert Duncan McNeill Dir.",
+        "John Shiban Scr."
+      ]
+    },
+    {
+      "id": "span-001158587839",
+      "type": "span",
+      "title": "1.08",
+      "start": 2005.8527777777776,
+      "end": 2005.872222222222,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2005-11-08",
+      "endLabel": "2005-11-15",
+      "noteFile": "span-001158587839.md",
+      "description": "Bugs",
+      "extendFrom": "span-001088658166",
+      "tags": [
+        "Season 1",
+        "Airing",
+        "Kim Manners Dir.",
+        "Rachel Nave Scr.",
+        "Bill Coakley Scr."
+      ],
+      "spanSize": "thin"
+    },
+    {
+      "id": "span-001091024688",
+      "type": "span",
+      "title": "1.09",
+      "start": 2005.872222222222,
+      "end": 2005.8916666666667,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2005-11-15",
+      "endLabel": "2005-11-22",
+      "noteFile": "span-001091024688.md",
+      "spanSize": "thin",
+      "tags": [
+        "Season 1",
+        "Airing",
+        "Ken Girotti Dir.",
+        "Erik Krikpe Scr."
+      ],
+      "extendFrom": "span-001158587839"
+    },
+    {
+      "id": "span-003859992186",
+      "type": "span",
+      "title": "1.10",
+      "start": 2005.8916666666667,
+      "end": 2005.911111111111,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2005-11-22",
+      "endLabel": "2005-11-29",
+      "description": "Asylum",
+      "noteFile": "span-003859992186.md",
+      "spanSize": "thin",
+      "tags": [
+        "Season 1",
+        "Airing",
+        "Guy Norman Bee Dir.",
+        "Richard Hatem Scr."
+      ],
+      "extendFrom": "span-001091024688"
+    },
+    {
+      "id": "span-000950022841",
+      "type": "span",
+      "title": "Winter Interim",
+      "start": 2005.911111111111,
+      "end": 2006.024193548387,
+      "groupId": "g-main",
+      "color": "#999999",
+      "startLabel": "2005-11-29",
+      "endLabel": "2006-01-10",
+      "tags": [
+        "Airing",
+        "Season 1",
+        "Interim"
+      ],
+      "spanSize": "thin",
+      "extendFrom": "span-003859992186",
+      "noteFile": "span-000950022841.md"
+    },
+    {
+      "id": "span-000028313002",
+      "type": "span",
+      "title": "1.11",
+      "start": 2006.024193548387,
+      "end": 2006.0430107526881,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2006-01-10",
+      "endLabel": "2006-01-17",
+      "description": "Scarecrow",
+      "noteFile": "span-000028313002.md",
+      "tags": [
+        "Season 1",
+        "Airing",
+        "Kim Manners Dir.",
+        "Patrick Sean Smith Story",
+        "John Shiban Teleplay",
+        "John Shiban Scr."
+      ],
+      "spanSize": "thin",
+      "extendFrom": "span-000950022841"
+    },
+    {
+      "id": "span-003911628182",
+      "type": "span",
+      "title": "1.12",
+      "start": 2006.0430107526881,
+      "end": 2006.0618279569892,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2006-01-17",
+      "endLabel": "2006-01-24",
+      "description": "Faith",
+      "noteFile": "span-003911628182.md",
+      "spanSize": "thin",
+      "tags": [
+        "Season 1",
+        "Airing",
+        "Allan Kroeker Dir.",
+        "Sera Gamble Scr.",
+        "Raelle Tucker Scr."
+      ],
+      "extendFrom": "span-000028313002"
+    },
+    {
+      "id": "span-002757260139",
+      "type": "span",
+      "title": "1.13",
+      "start": 2006.0806451612902,
+      "end": 2006.1011904761904,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2006-01-31",
+      "endLabel": "2006-02-07",
+      "description": "Route 666",
+      "noteFile": "span-002757260139.md",
+      "spanSize": "thin",
+      "extendFrom": "span-004179629549",
+      "tags": [
+        "Season 1",
+        "Airing",
+        "Paul Shapiro Dir.",
+        "Eugenie Ross-Leming Scr.",
+        "Brad Buckner Scr."
+      ]
+    },
+    {
+      "id": "span-004179629549",
+      "type": "span",
+      "title": "Interim",
+      "start": 2006.0618279569892,
+      "end": 2006.0806451612902,
+      "groupId": "g-main",
+      "color": "#999999",
+      "startLabel": "2006-01-24",
+      "endLabel": "2006-01-31",
+      "extendFrom": "span-003911628182",
+      "spanSize": "thin",
+      "tags": [
+        "Airing",
+        "Season 1",
+        "Interim"
+      ],
+      "noteFile": "span-004179629549.md"
+    },
+    {
+      "id": "span-000116592630",
+      "type": "span",
+      "title": "1.14",
+      "start": 2006.1011904761904,
+      "end": 2006.1220238095236,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2006-02-07",
+      "endLabel": "2006-02-14",
+      "tags": [
+        "Season 1",
+        "Airing",
+        "Phil Sgriccia Dir.",
+        "Sera Gamble Scr.",
+        "Raelle Tucker Scr."
+      ],
+      "extendFrom": "span-002757260139",
+      "noteFile": "span-000116592630.md",
+      "spanSize": "thin",
+      "description": "Nightmare"
+    },
+    {
+      "id": "span-003194045492",
+      "type": "span",
+      "title": "1.15",
+      "start": 2006.1220238095236,
+      "end": 2006.142857142857,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2006-02-14",
+      "endLabel": "2006-02-21",
+      "spanSize": "thin",
+      "description": "The Benders",
+      "noteFile": "span-003194045492.md",
+      "tags": [
+        "Season 1",
+        "Airing",
+        "Peter Ellis Dir.",
+        "John Shiban Scr."
+      ],
+      "extendFrom": "span-000116592630"
+    },
+    {
+      "id": "span-004289408685",
+      "type": "span",
+      "title": "Interim",
+      "start": 2006.142857142857,
+      "end": 2006.1636904761904,
+      "groupId": "g-main",
+      "color": "#999999",
+      "startLabel": "2006-02-21",
+      "endLabel": "2006-02-28",
+      "spanSize": "thin",
+      "extendFrom": "span-003194045492",
+      "tags": [
+        "Season 1",
+        "Airing",
+        "Interim"
+      ],
+      "noteFile": "span-004289408685.md"
+    },
+    {
+      "id": "span-000016233990",
+      "type": "span",
+      "title": "1.16",
+      "start": 2006.1636904761904,
+      "end": 2006.1827956989248,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2006-02-28",
+      "endLabel": "2006-03-07",
+      "description": "Shadow",
+      "noteFile": "span-000016233990.md",
+      "spanSize": "thin",
+      "tags": [
+        "Season 1",
+        "Airing",
+        "Kim Manners Dir.",
+        "Erik Krikpe Scr."
+      ],
+      "extendFrom": "span-004289408685"
+    },
+    {
+      "id": "span-001490833726",
+      "type": "span",
+      "title": "Interim",
+      "start": 2006.1827956989248,
+      "end": 2006.244623655914,
+      "groupId": "g-main",
+      "color": "#999999",
+      "startLabel": "2006-03-07",
+      "endLabel": "2006-03-30",
+      "noteFile": "span-001490833726.md",
+      "spanSize": "thin",
+      "tags": [
+        "Season 1",
+        "Airing",
+        "Interim"
+      ],
+      "extendFrom": "span-000016233990"
+    },
+    {
+      "id": "span-003989743383",
+      "type": "span",
+      "title": "1.17",
+      "start": 2006.244623655914,
+      "end": 2006.263888888889,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2006-03-30",
+      "endLabel": "2006-04-06",
+      "description": "Hell House",
+      "extendFrom": "span-001490833726",
+      "spanSize": "thin",
+      "noteFile": "span-003989743383.md",
+      "tags": [
+        "Season 1",
+        "Airing",
+        "Chris Long Dir.",
+        "Trey Callaway Scr."
+      ]
+    },
+    {
+      "id": "span-003303191467",
+      "type": "span",
+      "title": "1.18",
+      "start": 2006.263888888889,
+      "end": 2006.2833333333333,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2006-04-06",
+      "endLabel": "2006-04-13",
+      "description": "Something Wicked",
+      "noteFile": "span-003303191467.md",
+      "tags": [
+        "Season 1",
+        "Airing",
+        "Whitney Ransick Dir.",
+        "Daniel Knauf Scr."
+      ],
+      "extendFrom": "span-003989743383",
+      "spanSize": "thin"
+    },
+    {
+      "id": "span-002006534712",
+      "type": "span",
+      "title": "1.19",
+      "start": 2006.2833333333333,
+      "end": 2006.3027777777777,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2006-04-13",
+      "endLabel": "2006-04-20",
+      "description": "Provenance",
+      "noteFile": "span-002006534712.md",
+      "tags": [
+        "Season 1",
+        "Airing",
+        "Phil Sgriccia Dir.",
+        "David Ehrman Scr."
+      ],
+      "spanSize": "thin",
+      "extendFrom": "span-003303191467"
+    },
+    {
+      "id": "span-001055270257",
+      "type": "span",
+      "title": "1.20",
+      "start": 2006.3027777777777,
+      "end": 2006.3222222222223,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2006-04-20",
+      "endLabel": "2006-04-27",
+      "description": "Dead Man's Blood",
+      "noteFile": "span-001055270257.md",
+      "tags": [
+        "Season 1",
+        "Airing",
+        "Tony Wharmby Dir.",
+        "Cathryn Humphris Scr.",
+        "John Shiban Scr."
+      ],
+      "extendFrom": "span-002006534712",
+      "spanSize": "thin"
+    },
+    {
+      "id": "span-003608230215",
+      "type": "span",
+      "title": "1.21",
+      "start": 2006.3222222222223,
+      "end": 2006.3387096774193,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2006-04-27",
+      "endLabel": "2006-05-03",
+      "description": "Salvation",
+      "noteFile": "span-003608230215.md",
+      "spanSize": "thin",
+      "extendFrom": "span-001055270257",
+      "tags": [
+        "Season 1",
+        "Airing",
+        "Robert Singer Dir.",
+        "Sera Gamble Scr.",
+        "Raelle Tucker Scr."
+      ]
+    },
+    {
+      "id": "span-003601070020",
+      "type": "span",
+      "title": "1.22",
+      "start": 2006.3387096774193,
+      "end": 2006.3413978494623,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2006-05-03",
+      "endLabel": "2006-05-04",
+      "spanSize": "thin",
+      "tags": [
+        "Season 1",
+        "Airing",
+        "Kim Manners Dir.",
+        "Erik Krikpe Scr."
+      ],
+      "noteFile": "span-003601070020.md",
+      "extendFrom": "span-003608230215"
+    },
+    {
+      "id": "span-003115981785",
+      "type": "span",
+      "title": "Filming",
+      "start": 2006.529569892473,
+      "end": 2007.2805555555556,
+      "groupId": "g-main",
+      "color": "#FD8D3C",
+      "startLabel": "2006-07-12",
+      "endLabel": "2007-04-12",
+      "tags": [
+        "Season 2",
+        "Filming"
+      ],
+      "extendFrom": "span-003641936344",
+      "mergeParent": "span-003774456270",
+      "noteFile": "span-003115981785.md"
+    },
+    {
+      "id": "span-000336632459",
+      "type": "span",
+      "title": "2.01",
+      "start": 2006.529569892473,
+      "end": 2006.5537634408602,
+      "groupId": "g-main",
+      "color": "#FDAE6B",
+      "startLabel": "2006-07-12",
+      "endLabel": "2006-07-21",
+      "parent": "span-003115981785",
+      "spanSize": "thin"
+    },
+    {
+      "id": "span-000032592053",
+      "type": "span",
+      "title": "Airing",
+      "start": 2006.7416666666668,
+      "end": 2007.3763440860214,
+      "groupId": "g-main",
+      "color": "#FD8D3C",
+      "startLabel": "2006-09-28",
+      "endLabel": "2007-05-17",
+      "tags": [
+        "Season 2",
+        "Airing"
+      ],
+      "extendFrom": "span-000840836668"
+    },
+    {
+      "id": "span-003726111518",
+      "type": "span",
+      "title": "2.01",
+      "start": 2006.7416666666668,
+      "end": 2006.758064516129,
+      "groupId": "g-main",
+      "color": "#FDAE6B",
+      "startLabel": "2006-09-28",
+      "endLabel": "2006-10-04",
+      "parent": "span-000032592053",
+      "approxStart": true,
+      "spanSize": "thin"
+    },
+    {
+      "id": "event-004185352720",
+      "type": "event",
+      "title": "Comic Con 2005",
+      "date": 2005.5376344086021,
+      "groupId": "g-7",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-07-15",
+      "noteFile": "event-004185352720.md",
+      "tags": [
+        "Airing",
+        "Cons",
+        "Season 1"
+      ],
+      "sources": [
+        {
+          "title": "Supernaturalwiki",
+          "url": "https://supernaturalwiki.com/Comic-Con_2005",
+          "description": "Comic-Con 2005 info"
+        },
+        {
+          "title": "Con Schedule",
+          "url": "https://movieweb.com/2005-comic-con-schedule/",
+          "description": "Schedule for the Comic-Con, the episode would have been screened the second con day, Friday, in San Diego."
+        }
+      ],
+      "color": "#B3823E"
+    },
+    {
+      "id": "span-002984978372",
+      "type": "span",
+      "title": "Interim between seasons",
+      "start": 2006.3413978494623,
+      "end": 2006.529569892473,
+      "groupId": "g-main",
+      "color": "#999999",
+      "startLabel": "2006-05-04",
+      "endLabel": "2006-07-12",
+      "extendFrom": "span-001393550722",
+      "noteFile": "span-002984978372.md",
+      "tags": [
+        "Interim",
+        "Between seasons"
+      ]
+    },
+    {
+      "id": "span-000840836668",
+      "type": "span",
+      "title": "Air. Interim between seasons",
+      "start": 2006.3413978494623,
+      "end": 2006.7416666666668,
+      "groupId": "g-main",
+      "color": "#999999",
+      "startLabel": "2006-05-04",
+      "endLabel": "2006-09-28",
+      "extendFrom": "span-003608295210",
+      "tags": [
+        "Interim",
+        "Between seasons",
+        "Airing"
+      ]
+    },
+    {
+      "id": "span-002665320213",
+      "type": "span",
+      "title": "2.02",
+      "start": 2006.5537634408602,
+      "end": 2006.5833333333333,
+      "groupId": "g-main",
+      "color": "#FDAE6B",
+      "startLabel": "2006-07-21",
+      "endLabel": "2006-08-01",
+      "extendFrom": "span-000336632459",
+      "spanSize": "thin"
+    },
+    {
+      "id": "span-002799970965",
+      "type": "span",
+      "title": "2.03",
+      "start": 2006.5833333333333,
+      "end": 2007.5913978494623,
+      "groupId": "g-main",
+      "color": "#FDAE6B",
+      "startLabel": "2006-08-01",
+      "endLabel": "2007-08-04",
+      "extendFrom": "span-002665320213",
+      "spanSize": "thin"
+    },
+    {
+      "id": "event-002949028339",
+      "type": "event",
+      "title": "TV.com Q&A: Supernatural creator Eric Kripke",
+      "date": 2008.024193548387,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2008-01-10",
+      "tags": [
+        "Interview",
+        "Erik Kripke"
+      ],
+      "sources": [
+        {
+          "title": "TV.com Q&A with Erik Kripke",
+          "url": "https://agt-spooky.dreamwidth.org/262679.html#cutid1",
+          "description": "The link to the interview seems to no longer exists. It was however archived by agt_spooky on livejournal (assuming the interviews were not edited, for which I do not think there is a reason). The interview was originally posted at https://agt-spooky.livejournal.com/259745.html?es=1 before the author archived and moved their Livejournal to Dreamwidth (atttached link). \n\nThis account seems to have archived many interviews about the series from an early time. She seems to go by the nom de plume Jamie Lynn Miller. Was a wincestie (potentially no longer in the fandom)."
+        }
+      ],
+      "noteFile": "event-002949028339.md",
+      "color": "#B33E52"
+    },
+    {
+      "id": "event-000219660084",
+      "type": "event",
+      "title": "AXM Interview with Jensen Ackles and Jared Padalecki - Supernatural Sex Appeal",
+      "date": 2006.5833333333333,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2006-08-01",
+      "color": "#B33E52",
+      "approximate": true,
+      "noteFile": "event-000219660084.md",
+      "sources": [
+        {
+          "title": "Interview transcript and pictures",
+          "url": "https://jensendaily.org/eng/2006/08/01/supernatural-sex-appeal/",
+          "description": "The interview seems to have been trascribed the day it was published. It is assumed no editing of the original took place.\n\nThe interview was also punblished by agt_spooky ( https://agt-spooky.dreamwidth.org/643634.html#comments on dreamwidth and https://agt-spooky.livejournal.com/672884.html on livejournal). The images included in the magazine seem to be promo pictures from S.1   (as archived) . We can see the same pictures or similar ones archived here:\n\nFirst image - https://travellerintime.tumblr.com/post/647735101815390208/supernatural-season-1-promo-photos-hq (4th picture). Archived by TravellerInTime. \nSecond image - https://www.tumblr.com/travellerintime/645553663907151872/supernatural-season-1-promo-photos-hq (second image).Archived by TravellerInTime. \nThird image - https://www.tumblr.com/travellerintime/646654883279290368/supernatural-season-1-promo-photos-hq (first image).Archived by TravellerInTime."
+        }
+      ],
+      "thumbnail": "AXM-Collage.png",
+      "thumbnailStyle": "strip",
+      "tags": [
+        "Interview",
+        "Jensen Ackles",
+        "Jared Padalecki"
+      ]
+    },
+    {
+      "id": "event-000990512973",
+      "type": "event",
+      "title": "Brief Bruce Campbell Supernatural review for Entertainment Weekly",
+      "date": 2006.3440860215053,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "dateLabel": "2006-05-05",
+      "color": "#B33E52",
+      "noteFile": "event-000990512973.md",
+      "sources": [
+        {
+          "title": "Review transcript",
+          "url": "https://agt-spooky.livejournal.com/27316.html",
+          "description": ""
+        }
+      ],
+      "tags": [
+        "Review",
+        "Bruce Campbell"
+      ]
+    },
+    {
+      "id": "event-002485060125",
+      "type": "event",
+      "title": "UK Cult Times on John Shiban",
+      "date": 2006.3333333333333,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2006-05-01",
+      "color": "#B33E52",
+      "tags": [
+        "Article",
+        "John Shiban"
+      ],
+      "noteFile": "event-002485060125.md",
+      "sources": [
+        {
+          "title": "About the images",
+          "url": "https://supernatural-tv.livejournal.com/308280.html",
+          "description": "The images are promo pics from the first season (given the date and the fact that some of them correspond with promo pics described in the wiki in relation to the Edit from promo pics) the 7th picture (Skin Flick) can be found on this promo pics dump: https://jannyvb68.livejournal.com/76937.html (9th picture starting from the bottom). Archived by jannyvb68 (livejournal). 10/08/2009"
+        }
+      ],
+      "thumbnail": "UK Cult Times - Collage.png",
+      "thumbnailStyle": "strip"
+    },
+    {
+      "id": "event-000522470452",
+      "type": "event",
+      "title": "Sequential Tart's interview to Sera Gamble",
+      "date": 2006.9166666666667,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2006-12-01",
+      "color": "#B33E52",
+      "noteFile": "event-000522470452.md",
+      "sources": [
+        {
+          "title": "Interview link",
+          "url": "http://www.sequentialtart.com/article.php?id=345",
+          "description": ""
+        }
+      ],
+      "tags": [
+        "Interview",
+        "Sera Gamble"
+      ]
+    },
+    {
+      "id": "event-001510133650",
+      "type": "event",
+      "title": "BuddyTV's interview to John Shiban",
+      "date": 2006.9301075268818,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2006-12-06",
+      "tags": [
+        "Interview",
+        "John Shiban"
+      ],
+      "noteFile": "event-001510133650.md",
+      "color": "#B33E52",
+      "sources": [
+        {
+          "title": "Interview link",
+          "url": "https://www.buddytv.com/exclusive-interview-john-shiban-executive-producer-of-supernatural/",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "event-004249808136",
+      "type": "event",
+      "title": "New York Daily News brief interview Jensen Ackles",
+      "date": 2006.9027777777776,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2006-11-26",
+      "noteFile": "event-004249808136.md",
+      "color": "#B33E52",
+      "sources": [
+        {
+          "title": "Daily News archive",
+          "url": "https://nydailynews.newspapers.com/newspage/409509155/",
+          "description": "The archived sources have been included in the Note section. The Daily News archive requires of an account (and a subscriptio) to see this item."
+        }
+      ],
+      "tags": [
+        "Interview",
+        "Jensen Ackles"
+      ],
+      "thumbnail": "New York Vue magazine 26-11-2006.webp",
+      "thumbnailStyle": "strip"
+    },
+    {
+      "id": "event-001499724111",
+      "type": "event",
+      "title": "CW Connect interview with Jared Padalecki",
+      "date": 2006.9435483870968,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2006-12-11",
+      "tags": [
+        "Interview",
+        "Jared Padalecki"
+      ],
+      "color": "#B33E52",
+      "noteFile": "event-001499724111.md",
+      "sources": [
+        {
+          "title": "Livejournal link to the video file",
+          "url": "https://supernatural-tv.livejournal.com/702933.html",
+          "description": "This video will be included in the Drive that accompanies this timeline with all the media"
+        }
+      ]
+    },
+    {
+      "id": "event-001014870813",
+      "type": "event",
+      "title": "‘Supernatural’ Gets Full Season Pickup",
+      "date": 2005.763440860215,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-10-06",
+      "color": "#B33E52",
+      "noteFile": "event-001014870813.md",
+      "tags": [
+        "Article"
+      ],
+      "sources": [
+        {
+          "title": "Article link",
+          "url": "https://www.tvweek.com/in-depth/2005/10/supernatural-gets-full-season/",
+          "description": "It has also been screenshoted and will be available on the Drive."
+        }
+      ]
+    },
+    {
+      "id": "event-001685050012",
+      "type": "event",
+      "title": "Getting the Message and Making the Call",
+      "date": 2005.7930107526881,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "dateLabel": "2005-10-17",
+      "approximate": true,
+      "noteFile": "event-001685050012.md",
+      "color": "#B33E52",
+      "sources": [
+        {
+          "title": "Archival post",
+          "url": "https://supernatural-tv.livejournal.com/25648.html",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "event-004249775373",
+      "type": "event",
+      "title": "Attack of the Show interview with Erik Kripke",
+      "date": 2005.8416666666667,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-11-04",
+      "color": "#B33E52",
+      "tags": [
+        "Interview",
+        "Erik Kripke"
+      ],
+      "noteFile": "event-004249775373.md",
+      "sources": [
+        {
+          "title": "Original transcript link",
+          "url": "https://supernatural-tv.livejournal.com/574901.html",
+          "description": ""
+        },
+        {
+          "title": "Uploaded/Archived episode (on Youtube)",
+          "url": "https://www.youtube.com/watch?v=k35JVrGNDUg",
+          "description": "The interview starts at 00:08:017 and ends at 00:14:31. The interview segment alone will be included in the Drive (including a subtitled version)"
+        }
+      ]
+    },
+    {
+      "id": "event-001678631148",
+      "type": "event",
+      "title": "TVWeek.com article on the Kripke-WB Supernatural Deal",
+      "date": 2008.4777777777779,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2008-06-23",
+      "tags": [
+        "Article",
+        "Erik Kripke"
+      ],
+      "noteFile": "event-001678631148.md",
+      "sources": [
+        {
+          "title": "Article link",
+          "url": "https://www.tvweek.com/tvbizwire/2008/06/kripke-gets-supernatural-wb-de/",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52"
+    },
+    {
+      "id": "event-003222560755",
+      "type": "event",
+      "title": "TvWeel.com article on a Supernatural Spinoff",
+      "date": 2014.0779569892472,
+      "groupId": "g-main",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2014-01-30",
+      "color": "#B33E52",
+      "tags": [
+        "Article",
+        "Spinoff"
+      ],
+      "approximate": true,
+      "noteFile": "event-003222560755.md",
+      "sources": [
+        {
+          "title": "Article link",
+          "url": "https://www.tvweek.com/tvbizwire/2014/01/supernatural-gets-a-spinoff/",
+          "description": ""
+        },
+        {
+          "title": "Image link",
+          "url": "https://web.archive.org/web/20140518140358/http://www.tvweek.com/blogs/tvbizwire/supernatural-title.jpg",
+          "description": ""
+        }
+      ],
+      "thumbnail": "30-01-2014 TVWeek.com.jpg",
+      "thumbnailStyle": "strip"
+    },
+    {
+      "id": "event-002295374938",
+      "type": "event",
+      "title": " CW Connect Q&A with Jensen Ackles",
+      "date": 2006.970430107527,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2006-12-21",
+      "noteFile": "event-002295374938.md",
+      "color": "#B33E52",
+      "tags": [
+        "Interview",
+        "Jensen Ackles"
+      ],
+      "sources": [
+        {
+          "title": "Livejournal link to the video file",
+          "url": "https://supernatural-tv.livejournal.com/715535.html",
+          "description": "This video will be included in the Drive that accompanies this timeline with all the media"
+        }
+      ]
+    },
+    {
+      "id": "event-001884632166",
+      "type": "event",
+      "title": "Star! Inside the set of Supernatural",
+      "date": 2005.7983870967741,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-10-19",
+      "color": "#B33E52",
+      "noteFile": "event-001884632166.md",
+      "sources": [
+        {
+          "title": "LJ mention by raloria",
+          "url": "https://spn-ontheset.livejournal.com/6158.html",
+          "description": ""
+        },
+        {
+          "title": "Youtube link",
+          "url": "https://www.youtube.com/watch?v=-xpJSQkh9po&t=27s",
+          "description": ""
+        },
+        {
+          "title": "Reddit mention by Mouse-direct",
+          "url": "https://www.reddit.com/r/Supernatural/comments/1isjrcj/star_inside_onset_interview_july_2005/",
+          "description": ""
+        },
+        {
+          "title": "Archived jensenacklesfans.com",
+          "url": "https://web.archive.org/web/20051027005409/http://www.jensenacklesfans.com/",
+          "description": ""
+        },
+        {
+          "title": "Archived Star! Inside schedule from 12/12/2005",
+          "url": "https://web.archive.org/web/20051212025647/http://www.star-tv.com/tvshows/content/sc/star_inside.asp",
+          "description": ""
+        },
+        {
+          "title": "Filming schedule as per the supernatural wiki",
+          "url": "https://supernaturalwiki.com/Filming_dates",
+          "description": ""
+        },
+        {
+          "title": "Star! / E! general information",
+          "url": "https://en.wikipedia.org/wiki/E!_(Canadian_TV_channel)",
+          "description": "https://en.wikipedia.org/wiki/Star!_Scandinavia Additional information\nYou can also consult a short guide to the Star! Programs here https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_E!_(Canadian_TV_channel)"
+        }
+      ],
+      "approximate": true,
+      "tags": [
+        "Interview",
+        "Jensen Ackles",
+        "Jared Padalecki"
+      ]
+    },
+    {
+      "id": "event-002943051211",
+      "type": "event",
+      "title": "Filming of Star! Inside the set of Supernatural",
+      "date": 2005.6263440860214,
+      "groupId": "g-4",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-08-17",
+      "approximate": true,
+      "color": "#653EB3",
+      "noteFile": "event-002943051211.md",
+      "tags": [
+        "Interview",
+        "Jensen Ackles",
+        "Jared Padalecki"
+      ],
+      "sources": [
+        {
+          "title": "supernatural wiki info",
+          "url": "https://supernaturalwiki.com/Actor_Injuries#cite_note-1",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "event-001923050784",
+      "type": "event",
+      "title": "Watch with Kristin interview with Jared Padalecki and Jensen Ackles",
+      "date": 2005.5752688172042,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-07-29",
+      "color": "#B33E52",
+      "tags": [
+        "Interview",
+        "Jensen Ackles",
+        "Jared Padalecki"
+      ],
+      "noteFile": "event-001923050784.md",
+      "sources": [
+        {
+          "title": "stormbox post",
+          "url": "https://supernatural-tv.livejournal.com/1064.html",
+          "description": ""
+        },
+        {
+          "title": "Archived Watch with Kristin with the videoclip",
+          "url": "https://web.archive.org/web/20050731015704/http://www.eonline.com/Gossip/Kristin/Archive2005/050729c.html",
+          "description": ""
+        },
+        {
+          "title": "Archived Watch with Kristin (week before tihe interview)",
+          "url": "https://web.archive.org/web/20050730021353/http://www.eonline.com/Gossip/Kristin/Archive2005/050722.html",
+          "description": ""
+        },
+        {
+          "title": "Archived Watch with Kristin 26/05/2006",
+          "url": "https://web.archive.org/web/20060530001803/http://www.eonline.com/Gossip/Kristin/Archive2006/060526.html",
+          "description": "This archived webpage also presented another videoclip that appeared to include Tom Welling, Jensen Ackles and Jared Padalecki"
+        },
+        {
+          "title": "TCA information",
+          "url": "https://en.wikipedia.org/wiki/Television_Critics_Association",
+          "description": "https://en.wikipedia.org/wiki/21st_TCA_Awards#cite_note-1 TCA 21st Awards"
+        },
+        {
+          "title": "Videoclip youtube link",
+          "url": "https://www.youtube.com/watch?v=YQmn0yk8MpQ",
+          "description": ""
+        },
+        {
+          "title": "shortened videoclip on facebook",
+          "url": "https://www.facebook.com/sue.beattie1/videos/old-interview-with-jensen-ackles-jared-from-72106-20-years-ago-supernatural-goin/3672145169600368/",
+          "description": ""
+        },
+        {
+          "title": "shortened videoclip on tiktok",
+          "url": "https://www.tiktok.com/@jo50_/video/7592358952554335506",
+          "description": ""
+        },
+        {
+          "title": "Shortened videoclip on instagram",
+          "url": "https://www.instagram.com/reel/DbQgJitRSW4/",
+          "description": ""
+        },
+        {
+          "title": "supernaturalwiki list on interviews",
+          "url": "https://supernaturalwiki.com/Interviews",
+          "description": "It is under the July 2006 category, linking to the youtube video that is being used as a dating source"
+        },
+        {
+          "title": "Supernaturalforo youtube link",
+          "url": "https://www.youtube.com/watch?v=FQO6EfLXyMk",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "event-001466775258",
+      "type": "event",
+      "title": "Filming of the Watch with Kristin videoclip",
+      "date": 2005.5591397849462,
+      "groupId": "g-4",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-07-23",
+      "approximate": true,
+      "color": "#653EB3",
+      "tags": [
+        "Interview",
+        "Jensen Ackles",
+        "Jared Padalecki"
+      ],
+      "noteFile": "event-001466775258.md"
+    },
+    {
+      "id": "event-003111908881",
+      "type": "event",
+      "title": "Filming of an Entertainment Tonight interview with Jensen Ackles and Jared Padalecki ",
+      "date": 2005.5591397849462,
+      "groupId": "g-4",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-07-23",
+      "approximate": true,
+      "color": "#653EB3",
+      "noteFile": "event-003111908881.md",
+      "sources": [
+        {
+          "title": "Entertainment Weekly 2019 article",
+          "url": "https://www.etonline.com/supernatural-flashback-watch-jared-padalecki-and-jensen-ackles-first-et-interview-together",
+          "description": ""
+        }
+      ],
+      "tags": [
+        "Interview",
+        "Jensen Ackles",
+        "Jared Padalecki"
+      ]
+    },
+    {
+      "id": "event-003093470251",
+      "type": "event",
+      "title": "Sci Fi wire interview with Erik Kripke",
+      "date": 2005.6888888888889,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-09-09",
+      "color": "#B33E52",
+      "tags": [
+        "Interview",
+        "Erik Kripke"
+      ],
+      "noteFile": "event-003093470251.md",
+      "sources": [
+        {
+          "title": "Archived article",
+          "url": "https://web.archive.org/web/20051212135429/http://www.scifi.com/scifiwire2005/index.php?category=0&id=32334&type=0",
+          "description": ""
+        },
+        {
+          "title": "Livejournal reference",
+          "url": "https://supernatural-tv.livejournal.com/43842.html",
+          "description": ""
+        },
+        {
+          "title": "AlienSoup link",
+          "url": "https://aliensoup.com/threads/supernatural-2005.4200/",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "event-001557260567",
+      "type": "event",
+      "title": "The Hollywood Reporter: 'supernatural' Force: Kripke, Mcg, The Wb",
+      "date": 2004.7,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2004-09-13",
+      "color": "#B33E52",
+      "tags": [
+        "Article",
+        "Early development",
+        "Erik Kripke"
+      ],
+      "noteFile": "event-001557260567.md",
+      "sources": [
+        {
+          "title": "Archived allbusiness.com",
+          "url": "https://web.archive.org/web/20071218131352/http://www.allbusiness.com/services/motion-pictures/4912622-1.html",
+          "description": "https://web.archive.org/web/20090802074127/http://www.allbusiness.com/services/motion-pictures/4912622-1.html 2009 version"
+        },
+        {
+          "title": "supernaturalwiki reference",
+          "url": "https://supernaturalwiki.com/Supernatural_Scrapbook_2004-05",
+          "description": "First entry on the 13 of september 2004"
+        }
+      ]
+    },
+    {
+      "id": "event-001379457023",
+      "type": "event",
+      "title": "The Bosh: 'Supernatural' studs kick some butt",
+      "date": 2005.6209677419354,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-08-15",
+      "noteFile": "event-001379457023.md",
+      "sources": [
+        {
+          "title": "Mention by raloria",
+          "url": "https://spn-ontheset.livejournal.com/127954.html",
+          "description": ""
+        },
+        {
+          "title": "Archived article",
+          "url": "https://web.archive.org/web/20051220084244/http://thebosh.com/archives/2005/08/supernatural_st.php",
+          "description": ""
+        },
+        {
+          "title": "Article picture",
+          "url": "https://www.gettyimages.com/detail/news-photo/actors-jensen-ackles-and-jared-padelecki-pose-inside-at-the-news-photo/53275471",
+          "description": ""
+        },
+        {
+          "title": "supernaturalwiki info",
+          "url": "https://supernaturalwiki.com/Actor_Injuries#cite_note-1",
+          "description": ""
+        },
+        {
+          "title": "Page 6 paywall version",
+          "url": "https://web.archive.org/web/20050815075202/http://www.nypost.com/gossip/pagesix.htm",
+          "description": ""
+        },
+        {
+          "title": "Zap2it reference",
+          "url": "https://web.archive.org/web/20051111172838/http://tv.zap2it.com/tveditorial/tve_main/1,1002,271%7C97261%7C1%7C,00.html",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52",
+      "thumbnail": "15-08-2005 screenshot of the article.png",
+      "thumbnailStyle": "strip",
+      "tags": [
+        "Article",
+        "Jensen Ackles",
+        "Jared Padalecki"
+      ]
+    },
+    {
+      "id": "event-001890322614",
+      "type": "event",
+      "title": "WB network All Star Party ",
+      "date": 2005.5564516129032,
+      "groupId": "g-7",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-07-22",
+      "noteFile": "event-001890322614.md",
+      "color": "#B3823E",
+      "sources": [
+        {
+          "title": "supernaturalwiki reference",
+          "url": "https://supernaturalwiki.com/Supernatural_Scrapbook_2004-05",
+          "description": ""
+        },
+        {
+          "title": "Getty images",
+          "url": "https://www.gettyimages.in/search/2/image?family=editorial&phrase=the%20wb%20network%20stars%20party%202005&sort=mostpopular&groupbyevent=true",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "event-002340185498",
+      "type": "event",
+      "title": "Zap2it: Familiar Faces Track The WB's 'Supernatural'",
+      "date": 2005.1279761904761,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-02-16",
+      "noteFile": "event-002340185498.md",
+      "sources": [
+        {
+          "title": "Archived Zap2it article",
+          "url": "https://web.archive.org/web/20050218053436/http://tv.zap2it.com/tveditorial/tve_main/1%2C1002%2C271%7C93621%7C1%7C%2C00.html",
+          "description": ""
+        },
+        {
+          "title": "verdantheart comment at AlienSoup",
+          "url": "https://aliensoup.com/threads/supernatural-2005.4200/",
+          "description": ""
+        },
+        {
+          "title": "Supernatural_tv collection",
+          "url": "https://www.livejournal.com/tools/memories.bml?user=supernatural_tv&keyword=Articles%2FMedia&filter=all",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52",
+      "tags": [
+        "Article",
+        "Jensen Ackles",
+        "Jared Padalecki"
+      ]
+    },
+    {
+      "id": "event-003527236218",
+      "type": "event",
+      "title": "First archived entry at TV Tome on Supernatural",
+      "date": 2004.8694444444443,
+      "groupId": "g-5",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2004-11-14",
+      "color": "#78B33E",
+      "noteFile": "event-003527236218.md",
+      "sources": [
+        {
+          "title": "Wikipedia link",
+          "url": "https://en.wikipedia.org/wiki/TV.com",
+          "description": ""
+        },
+        {
+          "title": "Acklesaholics post by bwitani",
+          "url": "https://acklesaholics.livejournal.com/2005/03/21/",
+          "description": "https://acklesaholics.livejournal.com/9298.html alternative link"
+        }
+      ],
+      "tags": [
+        "Forum",
+        "Early development"
+      ]
+    },
+    {
+      "id": "event-001940163455",
+      "type": "event",
+      "title": "Registered change on the TV Tome entry",
+      "date": 2005.220430107527,
+      "groupId": "g-5",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-03-21",
+      "color": "#78B33E",
+      "noteFile": "event-001940163455.md",
+      "sources": [
+        {
+          "title": "Acklesholics post by bwitani",
+          "url": "https://acklesaholics.livejournal.com/2005/03/21/",
+          "description": "https://acklesaholics.livejournal.com/9298.html alternative link"
+        },
+        {
+          "title": "TV Tome archived entry by May",
+          "url": "https://web.archive.org/web/20050507045851/http://www.tvtome.com/tvtome/servlet/ShowMainServlet/showid-30144/",
+          "description": ""
+        }
+      ],
+      "tags": [
+        "Forum",
+        "Early development"
+      ]
+    },
+    {
+      "id": "event-001004841627",
+      "type": "event",
+      "title": "First promo clip of the show circulates",
+      "date": 2005.3790322580644,
+      "groupId": "g-4",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-05-18",
+      "color": "#653EB3",
+      "noteFile": "event-001004841627.md",
+      "approximate": true,
+      "sources": [
+        {
+          "title": "Post by isawudancin",
+          "url": "https://acklesaholics.livejournal.com/12447.html",
+          "description": ""
+        },
+        {
+          "title": "Youtube link",
+          "url": "https://www.youtube.com/watch?v=Gdv6Xjkd7DM",
+          "description": "The video description reads: \n\nThe content shown in this video is not owned by me. Credit goes to the original designers and creators whose work is preserved within this video. No copyright infringement intended. Posted for entertaining purposes only.\n\nCredit to ‪@CraigSsVCRMedia‬ (youtube channel) \nFor NicoLodge, GH32143, Marcus Montgomery's Logo Archive, and Valve."
+        }
+      ],
+      "tags": [
+        "Promo videos",
+        "Jensen Ackles",
+        "Jared Padalecki"
+      ]
+    },
+    {
+      "id": "event-000481467156",
+      "type": "event",
+      "title": "Pub fight",
+      "date": 2005.6182795698924,
+      "groupId": "g-4",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "dateLabel": "2005-08-14",
+      "approximate": true,
+      "color": "#653EB3",
+      "noteFile": "event-000481467156.md",
+      "sources": [
+        {
+          "title": "supernatural wiki info",
+          "url": "https://supernaturalwiki.com/Actor_Injuries#cite_note-1",
+          "description": ""
+        },
+        {
+          "title": "Page 6 paywall version",
+          "url": "https://web.archive.org/web/20050815075202/http://www.nypost.com/gossip/pagesix.htm",
+          "description": ""
+        }
+      ],
+      "tags": [
+        "Jensen Ackles",
+        "Jared Padalecki"
+      ]
+    },
+    {
+      "id": "event-002994797180",
+      "type": "event",
+      "title": "Page 6  reference to the fight",
+      "date": 2005.6182795698924,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "dateLabel": "2005-08-14",
+      "noteFile": "event-002994797180.md",
+      "color": "#B33E52",
+      "sources": [
+        {
+          "title": "The bosh reference",
+          "url": "https://web.archive.org/web/20051220084244/http://thebosh.com/archives/2005/08/supernatural_st.php",
+          "description": ""
+        },
+        {
+          "title": "Page 6 paywall link",
+          "url": "https://web.archive.org/web/20050815075202/http://www.nypost.com/gossip/pagesix.htm",
+          "description": ""
+        },
+        {
+          "title": "Post by Mysteria",
+          "url": "https://www.fanforum.com/f222/about-show-news-countdown-48369/index12.html",
+          "description": ""
+        }
+      ],
+      "tags": [
+        "Article",
+        "Jensen Ackles",
+        "Jared Padalecki"
+      ]
+    },
+    {
+      "id": "event-003883384235",
+      "type": "event",
+      "title": "Zap2it: 'Supernatural' Brothers Brave a Hidden Evil",
+      "date": 2005.6916666666668,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-09-10",
+      "color": "#B33E52",
+      "tags": [
+        "Article",
+        "Jensen Ackles",
+        "Jared Padalecki",
+        "Erik Kripke"
+      ],
+      "noteFile": "event-003883384235.md",
+      "sources": [
+        {
+          "title": "Zap2it archived link",
+          "url": "https://web.archive.org/web/20051111172838/http://tv.zap2it.com/tveditorial/tve_main/1,1002,271%7C97261%7C1%7C,00.html",
+          "description": ""
+        },
+        {
+          "title": "The bosh archived link",
+          "url": "https://web.archive.org/web/20051220084244/http://thebosh.com/archives/2005/08/supernatural_st.php",
+          "description": ""
+        }
+      ],
+      "thumbnail": "10-09-2005 article screenshot.png",
+      "thumbnailStyle": "strip"
+    },
+    {
+      "id": "event-001263487642",
+      "type": "event",
+      "title": "WB UpFronts 2005/2006 and Supenatural's announcement ",
+      "date": 2005.3763440860214,
+      "groupId": "g-7",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-05-17",
+      "sources": [
+        {
+          "title": "Zap2it (archived)",
+          "url": "https://web.archive.org/web/20050520023221/http://tv.zap2it.com/tveditorial/tve_main/1%2C1002%2C802%7C95252%7C1%7C1%2C00.html",
+          "description": ""
+        },
+        {
+          "title": "Event pictures at jared-padalecki.com",
+          "url": "https://jared-padalecki.com/gallery/thumbnails.php?album=363&captcha",
+          "description": ""
+        },
+        {
+          "title": "supernatural reference wiki",
+          "url": "https://supernaturalwiki.com/Supernatural_Scrapbook_2004-05",
+          "description": ""
+        },
+        {
+          "title": "Futon critic reference",
+          "url": "http://www.thefutoncritic.com/news.aspx?id=20050517wb01",
+          "description": ""
+        },
+        {
+          "title": "Youtube version of the promo as per the supernatural wiki",
+          "url": "https://www.youtube.com/watch?v=m3bRe0tlhRY",
+          "description": ""
+        },
+        {
+          "title": "WB press release",
+          "url": "https://web.archive.org/web/20050518235044/http://www.thewb.com/PressRelease/Index/0%2C8341%2C230412%2C00.html",
+          "description": ""
+        },
+        {
+          "title": "Jarjen's post",
+          "url": "https://dean-sam.livejournal.com/9787236.html",
+          "description": ""
+        },
+        {
+          "title": "Archived jensenacklesfans.con",
+          "url": "https://web.archive.org/web/20060111233928/http://www.jensenacklesfans.com/photo_gallery/",
+          "description": ""
+        },
+        {
+          "title": "Archived supernaturalmedia.net",
+          "url": "https://web.archive.org/web/20061216170222/http://super.emedian.net/05gp02.html",
+          "description": ""
+        },
+        {
+          "title": "Link to jared-padalecki.com",
+          "url": "https://jared-padalecki.com/gallery/thumbnails.php?album=363&captcha",
+          "description": "There is also another album with pictures from the event's arrival. It only contains two pictures that can also be found at alamy, getty or wireimage"
+        },
+        {
+          "title": "Getty repisotory",
+          "url": "https://www.gettyimages.ca/search/2/image?family=editorial&phrase=WB%20upfront%202005&sort=oldest&events=52819743",
+          "description": ""
+        },
+        {
+          "title": "Alamy repository",
+          "url": "https://www.alamy.com/stock-photo/wb-upfront-2005.html?sortBy=relevant",
+          "description": ""
+        },
+        {
+          "title": "WireImage repository",
+          "url": "https://www.wireimage.com/search/#events?q=WB%20UpFront%202005%2F2006&ep=1/60/1&s=1",
+          "description": ""
+        },
+        {
+          "title": "jensenackles-daily's posts",
+          "url": "https://www.tumblr.com/jensenackles-daily/823693649899667457/jensen-ackles-attends-the-wb-network-upfront-at",
+          "description": "https://www.tumblr.com/jensenackles-daily/184923019900/jensen-ackles-cw-and-wb-upfronts-2005-2019"
+        },
+        {
+          "title": "Archived jensenackles.net",
+          "url": "https://web.archive.org/web/20190918204305/https://jensen-ackles.net/gallery/index.php?cat=21",
+          "description": ""
+        },
+        {
+          "title": "supernaturalwiki Upfronts page",
+          "url": "https://supernaturalwiki.com/Upfronts",
+          "description": ""
+        },
+        {
+          "title": "supernatural001 flickr",
+          "url": "https://www.flickr.com/photos/38494127@N05/albums/72157619778426310/",
+          "description": ""
+        },
+        {
+          "title": "post by bj at livejournal",
+          "url": "https://thepurpleswitch.livejournal.com/557081.html",
+          "description": ""
+        },
+        {
+          "title": "Winchesterfan.com link",
+          "url": "http://www.winchesterfan.com/",
+          "description": ""
+        },
+        {
+          "title": "supernaturawiki tweet",
+          "url": "https://x.com/galain/status/203105950209556481",
+          "description": ""
+        },
+        {
+          "title": "supernaturalwiki tweet, image",
+          "url": "https://twitpic.com/9m0n24",
+          "description": ""
+        },
+        {
+          "title": "Simone's post",
+          "url": "https://sn-daily.livejournal.com/7135.html",
+          "description": ""
+        },
+        {
+          "title": "Archived image posted by Seth_Atwood",
+          "url": "https://i9.photobucket.com/albums/a77/Seth_Atwood/Jensen%20Ackles/Padackles/9f0f6a32.jpg",
+          "description": ""
+        },
+        {
+          "title": "supernaturalwiki scrapbook 2004-2005",
+          "url": "https://supernaturalwiki.com/Supernatural_Scrapbook_2004-05",
+          "description": ""
+        },
+        {
+          "title": "Youtube video with the clip",
+          "url": "https://www.youtube.com/watch?v=oC77mxLTOeE",
+          "description": ""
+        },
+        {
+          "title": "Archived jaredpadaleck.org",
+          "url": "https://web.archive.org/web/20100310091333/http://www.jared-padalecki.org/media/",
+          "description": ""
+        },
+        {
+          "title": "Tin eye search from the youtube clip",
+          "url": "https://tineye.com/search/fd61a6b761312d76ee218e0b1313fd4a76563c85?sort=score&order=desc&page=1",
+          "description": ""
+        }
+      ],
+      "noteFile": "event-001263487642.md",
+      "color": "#B3823E",
+      "tags": [
+        "Event",
+        "Promo videos",
+        "Jensen Ackles",
+        "Jared Padalecki"
+      ]
+    },
+    {
+      "id": "event-000557664092",
+      "type": "event",
+      "title": "Airing of a promotional preview",
+      "date": 2005.5994623655913,
+      "groupId": "g-4",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "dateLabel": "2005-08-07",
+      "color": "#653EB3",
+      "noteFile": "event-000557664092.md",
+      "sources": [
+        {
+          "title": "Filmobsessed137 post",
+          "url": "I was sitting here, with the WB in the background, and they advertised that Sunday they will be airing the movie Sugar & Spice and at some point during the movie there will be a 4 minute preview of Supernatural. Just wanted to let everyone know so they can check it out.",
+          "description": ""
+        },
+        {
+          "title": "WB 07/08 week calendar",
+          "url": "https://web.archive.org/web/20050806005823/http://www.thewb.com/Shows/Index/0,7345,,00.html",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "event-001756828604",
+      "type": "event",
+      "title": "Promo clips for the show, premiering that day",
+      "date": 2005.7,
+      "groupId": "g-4",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-09-13",
+      "color": "#653EB3",
+      "noteFile": "event-001756828604.md",
+      "sources": [
+        {
+          "title": "WB promos of the day",
+          "url": "https://www.youtube.com/watch?v=39oN9OZtueY",
+          "description": ""
+        }
+      ],
+      "tags": [
+        "Promo videos"
+      ]
+    },
+    {
+      "id": "event-003999324151",
+      "type": "event",
+      "title": "Sci Fi Wire: Supernatural Explores Urban Myth\n",
+      "date": 2005.5698924731182,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-07-27",
+      "sources": [
+        {
+          "title": "Aliensoup forum",
+          "url": "https://aliensoup.com/threads/supernatural-2005.4200/",
+          "description": ""
+        },
+        {
+          "title": "Archived scifi wire of the day",
+          "url": "https://web.archive.org/web/20050727000353/http://www.scifi.com/scifiwire2005/index.php",
+          "description": ""
+        },
+        {
+          "title": "Post by lolitaro",
+          "url": "https://www.fanforum.com/f222/about-show-news-countdown-48369/index7.html",
+          "description": ""
+        }
+      ],
+      "noteFile": "event-003999324151.md",
+      "color": "#B33E52",
+      "tags": [
+        "Article",
+        "Interview",
+        "Jared Padalecki",
+        "Erik Kripke"
+      ]
+    },
+    {
+      "id": "event-001698630953",
+      "type": "event",
+      "title": "TV Guide issue 11-17: Supernatural as a TV Guide favourite",
+      "date": 2005.6944444444446,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-09-11",
+      "noteFile": "event-001698630953.md",
+      "sources": [
+        {
+          "title": "Youtube link",
+          "url": "https://www.youtube.com/watch?v=6CqGKnCVHro&t=739s",
+          "description": ""
+        },
+        {
+          "title": "TV Guide youtube link",
+          "url": "https://www.youtube.com/watch?v=oC77mxLTOeE",
+          "description": ""
+        },
+        {
+          "title": "Scanned image",
+          "url": "https://fandom-hoarder.tumblr.com/post/794691845993152512/amp",
+          "description": ""
+        },
+        {
+          "title": "Archied jaredpadalecki.org",
+          "url": "https://web.archive.org/web/20100310091333/http://www.jared-padalecki.org/media/",
+          "description": ""
+        },
+        {
+          "title": "Post by simone",
+          "url": "https://sn-daily.livejournal.com/2005/11/14/",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52",
+      "tags": [
+        "Article",
+        "Jensen Ackles",
+        "Jared Padalecki"
+      ],
+      "thumbnail": "11-09-2005 column.png",
+      "thumbnailStyle": "strip"
+    },
+    {
+      "id": "event-003361292874",
+      "type": "event",
+      "title": "At some point of the summer photoshoot TV Guide",
+      "date": 2005.5833333333333,
+      "groupId": "g-4",
+      "parents": [],
+      "eventLineStyle": "dotted",
+      "eventBorderStyle": "dotted",
+      "dateLabel": "2005-08-01",
+      "approximate": true,
+      "noteFile": "event-003361292874.md",
+      "color": "#653EB3",
+      "tags": [
+        "Photoshoot"
+      ]
+    },
+    {
+      "id": "event-003915947710",
+      "type": "event",
+      "title": "USA Today: 'Supernatural' is an eerie natural for WB",
+      "date": 2005.6263440860214,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-08-17",
+      "tags": [
+        "Article",
+        "David Janollari"
+      ],
+      "noteFile": "event-003915947710.md",
+      "sources": [
+        {
+          "title": "Archived article",
+          "url": "https://web.archive.org/web/20051222183440/https://www.usatoday.com/life/television/news/2005-08-17-supernatural_x.htm",
+          "description": ""
+        },
+        {
+          "title": "Aliensoup Supernatural thread",
+          "url": "https://aliensoup.com/threads/supernatural-2005.4200/",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52"
+    },
+    {
+      "id": "event-003158693905",
+      "type": "event",
+      "title": "Sci FI Wire: Supernatural Will Debut Long",
+      "date": 2005.6612903225805,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-08-30",
+      "noteFile": "event-003158693905.md",
+      "sources": [
+        {
+          "title": "Sci Fi Wire",
+          "url": "https://web.archive.org/web/20050830103646/http://www.scifi.com/scifiwire2005/index.php",
+          "description": ""
+        },
+        {
+          "title": "Aliensoup's thread",
+          "url": "https://aliensoup.com/threads/supernatural-2005.4200/",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52",
+      "tags": [
+        "Article"
+      ]
+    },
+    {
+      "id": "event-003985450793",
+      "type": "event",
+      "title": "Zap2it: 'Supernatural' Premiere Goes Long",
+      "date": 2005.6586021505375,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-08-29",
+      "thumbnail": "29-08-2005 Zap2it.png",
+      "thumbnailStyle": "strip",
+      "thumbnailFit": "cover",
+      "noteFile": "event-003985450793.md",
+      "sources": [
+        {
+          "title": "Archived article",
+          "url": "https://web.archive.org/web/20051210123017/http://tv.zap2it.com/tveditorial/tve_main/1,1002,271%7C97255%7C1%7C,00.html",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52"
+    },
+    {
+      "id": "event-000662014231",
+      "type": "event",
+      "title": "Zap2it: WB Offers Online Peek at 'Supernatural'",
+      "date": 2005.6805555555557,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-09-06",
+      "tags": [
+        "Article",
+        "David Janollari"
+      ],
+      "noteFile": "event-000662014231.md",
+      "sources": [
+        {
+          "title": "Archived article",
+          "url": "https://web.archive.org/web/20051126131124/http://tv.zap2it.com/tveditorial/tve_main/1,1002,271%7C97361%7C1%7C,00.html",
+          "description": ""
+        }
+      ],
+      "thumbnail": "06-09-2005 Zap2it.png",
+      "color": "#B33E52",
+      "thumbnailStyle": "strip"
+    },
+    {
+      "id": "event-003935226135",
+      "type": "event",
+      "title": "Zap2it: 'Supernatural' Sees Beyond the Veil to a Full Season",
+      "date": 2005.766129032258,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-10-07",
+      "noteFile": "event-003935226135.md",
+      "sources": [
+        {
+          "title": "Archived article",
+          "url": "https://web.archive.org/web/20051210130151/http://tv.zap2it.com/tveditorial/tve_main/1,1002,271%7C97948%7C1%7C,00.html",
+          "description": ""
+        },
+        {
+          "title": "Picture including exif",
+          "url": "https://www.tvguide.com/galleries/supernatural-season-posters-photos/13/",
+          "description": ""
+        }
+      ],
+      "thumbnail": "07-10-2005.png",
+      "color": "#B33E52",
+      "tags": [
+        "Article",
+        "David Janollari"
+      ],
+      "thumbnailStyle": "strip"
+    },
+    {
+      "id": "event-002333654843",
+      "type": "event",
+      "title": "Zap2it: Padalecki Plays it Cool for 'Supernatural'",
+      "date": 2005.8638888888888,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-11-12",
+      "tags": [
+        "Article",
+        "Jared Padalecki"
+      ],
+      "color": "#B33E52",
+      "noteFile": "event-002333654843.md",
+      "thumbnail": "12-11-2005.png",
+      "sources": [
+        {
+          "title": "Article link",
+          "url": "https://web.archive.org/web/20051126222503/http://tv.zap2it.com/tveditorial/tve_main/1,1002,271%7C98373%7C1%7C,00.html",
+          "description": ""
+        },
+        {
+          "title": "Picture including exif",
+          "url": "https://www.tvguide.com/galleries/supernatural-season-posters-photos/3/",
+          "description": ""
+        }
+      ],
+      "thumbnailStyle": "strip"
+    },
+    {
+      "id": "event-003913784693",
+      "type": "event",
+      "title": "The New Yorker: SEEING STARS\nNature and the supernatural on TV.",
+      "date": 2005.7166666666667,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-09-19",
+      "tags": [
+        "Article",
+        "Jensen Ackles"
+      ],
+      "noteFile": "event-003913784693.md",
+      "sources": [
+        {
+          "title": "Archived article",
+          "url": "https://web.archive.org/web/20051118163353/http://www.newyorker.com/critics/television/articles/050926crte_television",
+          "description": ""
+        },
+        {
+          "title": "Post by tortured74",
+          "url": "https://jensen-daily.livejournal.com/1441.html",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52"
+    },
+    {
+      "id": "event-001140645952",
+      "type": "event",
+      "title": "Blogcritics.org : 2005 Fall Line-Up Reviews : Take 6 - Supernatural",
+      "date": 2005.7166666666667,
+      "groupId": "g-5",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-09-19",
+      "noteFile": "event-001140645952.md",
+      "sources": [
+        {
+          "title": "Archived article",
+          "url": "https://web.archive.org/web/20051206132829/http://blogcritics.org/archives/2005/09/19/005341.php",
+          "description": ""
+        },
+        {
+          "title": "Post by tortured74",
+          "url": "https://jensen-daily.livejournal.com/1441.html",
+          "description": ""
+        }
+      ],
+      "color": "#78B33E",
+      "tags": [
+        "Article"
+      ]
+    },
+    {
+      "id": "event-003875562097",
+      "type": "event",
+      "title": "The Boston Herald",
+      "date": 2005.978494623656,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "dateLabel": "2005-12-24",
+      "noteFile": "event-003875562097.md",
+      "sources": [
+        {
+          "title": "Post by riotgirl77 at ackelsaholics",
+          "url": "https://supernatural-tv.livejournal.com/2754.html",
+          "description": ""
+        },
+        {
+          "title": "Post by riotgirl77 at jensen-daily",
+          "url": "https://jensen-daily.livejournal.com/17975.html",
+          "description": ""
+        },
+        {
+          "title": "Article link",
+          "url": "http://theedge.bostonherald.com/tvNews/view.bg?articleid=118546",
+          "description": ""
+        }
+      ],
+      "approximate": true,
+      "color": "#B33E52"
+    },
+    {
+      "id": "event-000307995559",
+      "type": "event",
+      "title": "The Hollywood reporter: Supernatural",
+      "date": 2005.7,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-09-13",
+      "noteFile": "event-000307995559.md",
+      "sources": [
+        {
+          "title": "Archived article",
+          "url": "https://web.archive.org/web/20051217183317/http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001096108",
+          "description": ""
+        },
+        {
+          "title": "Post by stormbox",
+          "url": "https://supernatural-tv.livejournal.com/3657.html",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52",
+      "tags": [
+        "Article"
+      ]
+    },
+    {
+      "id": "event-002054846221",
+      "type": "event",
+      "title": "Dreamwatch: Supernatural, Jensen Ackles on the Highway to Hell!",
+      "date": 2005.9166666666667,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-12-01",
+      "sources": [
+        {
+          "title": "Cover example",
+          "url": "https://www.ebay.com/itm/127431704790",
+          "description": ""
+        },
+        {
+          "title": "Post by riotgirl77",
+          "url": "https://jensen-daily.livejournal.com/2005/12/06/",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52",
+      "noteFile": "event-002054846221.md",
+      "thumbnail": "01-12-2005 Collage.png",
+      "thumbnailStyle": "strip",
+      "tags": [
+        "Interview",
+        "Jensen Ackles"
+      ]
+    },
+    {
+      "id": "event-001466471786",
+      "type": "event",
+      "title": "Teen People: Cover ad for Supernatural",
+      "date": 2005.6666666666667,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-09-01",
+      "sources": [
+        {
+          "title": "Ebay link to the magazine sale with the ad",
+          "url": "https://www.ebay.com/itm/275974211596",
+          "description": ""
+        },
+        {
+          "title": "Ebay link to the magazine TV shows",
+          "url": "https://www.ebay.com/itm/177471744173",
+          "description": ""
+        },
+        {
+          "title": "Stormbox post",
+          "url": "https://supernatural-tv.livejournal.com/2754.html",
+          "description": ""
+        }
+      ],
+      "noteFile": "event-001466471786.md",
+      "color": "#B33E52"
+    },
+    {
+      "id": "event-000656296092",
+      "type": "event",
+      "title": "Entertainment Weekly Magazine: Supernatural Article reference",
+      "date": 2005.779569892473,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "dateLabel": "2005-10-12",
+      "noteFile": "event-000656296092.md",
+      "sources": [
+        {
+          "title": "Post by erin805",
+          "url": "https://supernatural-tv.livejournal.com/24081.html",
+          "description": ""
+        },
+        {
+          "title": "Post by riotgirl77",
+          "url": "https://supernatural-tv.livejournal.com/24482.html",
+          "description": ""
+        },
+        {
+          "title": "Original link",
+          "url": "http://www.ew.com/ew/report/0,6115,1117088_3|111135|1099166|1_0_,00.html",
+          "description": ""
+        },
+        {
+          "title": "Pop watch  archived column",
+          "url": "https://web.archive.org/web/20051013085255/http://popwatch.ew.com/",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52"
+    },
+    {
+      "id": "event-000439644721",
+      "type": "event",
+      "title": "TV Guide magazine: brief column on Supernatural",
+      "date": 2005.7930107526881,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "dateLabel": "2005-10-17",
+      "noteFile": "event-000439644721.md",
+      "sources": [
+        {
+          "title": "Post by monticora",
+          "url": "https://supernatural-tv.livejournal.com/25872.html",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52"
+    },
+    {
+      "id": "event-002225834990",
+      "type": "event",
+      "title": "MSNBC: Interview with Jared Padalecki",
+      "date": 2005.8388888888887,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-11-03",
+      "tags": [
+        "Interview",
+        "Jared Padalecki"
+      ],
+      "noteFile": "event-002225834990.md",
+      "sources": [
+        {
+          "title": "witchofthedogs' post",
+          "url": "https://supernatural-tv.livejournal.com/44762.html",
+          "description": ""
+        },
+        {
+          "title": "Archived interview",
+          "url": "https://web.archive.org/web/20051126160106/https://www.msnbc.msn.com/id/9915920/",
+          "description": ""
+        },
+        {
+          "title": "Chicgo tribune link",
+          "url": "https://chicagotribune.newspapers.com/image/231561227/?match=10&terms=padalecki%20supernatural&search-id=d9366cd8-f91a-4949-baf6-75da72324bc0&search-rank=1",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52"
+    },
+    {
+      "id": "event-003458965084",
+      "type": "event",
+      "title": "WB Press release ",
+      "date": 2005.8010752688172,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-10-20",
+      "noteFile": "event-003458965084.md",
+      "sources": [
+        {
+          "title": "WB Archived press release",
+          "url": "https://web.archive.org/web/20051211235013/http://thewb.warnerbros.com/web/o_generic.jsp%20?id=PRelease+-+Fall+2005+Sweeps",
+          "description": ""
+        },
+        {
+          "title": "Post by witchof the dogs",
+          "url": "https://supernatural-tv.livejournal.com/41212.html",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52",
+      "tags": [
+        "Press release"
+      ]
+    },
+    {
+      "id": "event-002521270895",
+      "type": "event",
+      "title": "TV Guide magazine: Goblins and Vampires and Ghouls, Oh, my!",
+      "date": 2005.8694444444443,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-11-14",
+      "noteFile": "event-002521270895.md",
+      "color": "#B33E52",
+      "sources": [
+        {
+          "title": "Post by monticora",
+          "url": "https://supernatural-tv.livejournal.com/47637.html",
+          "description": ""
+        },
+        {
+          "title": "Post by simone",
+          "url": "https://sn-daily.livejournal.com/1221.html",
+          "description": ""
+        }
+      ],
+      "tags": [
+        "Article",
+        "Jensen Ackles",
+        "Jared Padalecki",
+        "Loretta Devine",
+        "Erik Kripke"
+      ],
+      "thumbnail": "14-11-2005 TV Guide Collage.png",
+      "thumbnailStyle": "strip"
+    },
+    {
+      "id": "event-003860505438",
+      "type": "event",
+      "title": "Chicago Tribune: Supernatural star plays it cool",
+      "date": 2005.8805555555555,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "dateLabel": "2005-11-18",
+      "approximate": true,
+      "sources": [
+        {
+          "title": "Archived Chicago tribune news",
+          "url": "https://web.archive.org/web/20051124013836/http://www.chicagotribune.com/entertainment/tv/",
+          "description": ""
+        },
+        {
+          "title": "post by radiophonic",
+          "url": "https://supernatural-tv.livejournal.com/57640.html",
+          "description": ""
+        },
+        {
+          "title": "Link by witchofthedogs",
+          "url": "http://www.chicagotribune.com/entertainment/tv/chi-0511130411nov13,1,1453234.story?coll=chi-ent_tv-hed&ctrack=1&cset=true",
+          "description": ""
+        }
+      ],
+      "noteFile": "event-003860505438.md",
+      "color": "#B33E52"
+    },
+    {
+      "id": "event-004270841694",
+      "type": "event",
+      "title": "People magazine:  Interview",
+      "date": 2005.9083333333333,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-11-28",
+      "color": "#B33E52",
+      "noteFile": "event-004270841694.md",
+      "sources": [
+        {
+          "title": "riotgirl77post",
+          "url": "https://supernatural-tv.livejournal.com/62766.html",
+          "description": ""
+        },
+        {
+          "title": "Simone's post",
+          "url": "https://sn-daily.livejournal.com/3385.html",
+          "description": ""
+        },
+        {
+          "title": "Tumblr post (preserved by a reblog)",
+          "url": "https://www.tumblr.com/reddieandwaiting87/735075678731599872",
+          "description": ""
+        },
+        {
+          "title": "Getty images",
+          "url": "https://www.gettyimages.ca/search/2/image?phrase=\"jensen%20ackles\"%20or%20\"jared%20padalecki\"&artistexact=patrick%20fraser&sort=mostpopular&license=rf%2Crm",
+          "description": ""
+        },
+        {
+          "title": "Photoshoot location visual match",
+          "url": "https://604now.com/rosemary-estate-tudor-mansion-vancouver-bc/",
+          "description": ""
+        },
+        {
+          "title": "Photoshoot location visual matches 2",
+          "url": "https://storeys.com/vancouvers-107-year-old-tudor-mansion-3689-selkirk/",
+          "description": ""
+        },
+        {
+          "title": "Photoshoot location visual match 3",
+          "url": "https://www.zolo.ca/vancouver-real-estate/3689-selkirk-street",
+          "description": ""
+        },
+        {
+          "title": "Photoshoot location visual match 4",
+          "url": "https://royalpacific.com/officelistings.html/listing.r2746106-3689-selkirk-street-vancouver-v6h-2y9.105088296",
+          "description": ""
+        },
+        {
+          "title": "Photodhoot location video",
+          "url": "https://www.youtube.com/watch?v=ppATvVw_U00",
+          "description": ""
+        }
+      ],
+      "tags": [
+        "Interview",
+        "Jensen Ackles",
+        "Jared Padalecki"
+      ],
+      "thumbnail": "supercringtural/28-11-2005 People Weekly Magazine Collage.png",
+      "thumbnailStyle": "strip"
+    },
+    {
+      "id": "event-001842598858",
+      "type": "event",
+      "title": "Jared Padalecki Photoshoot with LaMoine",
+      "date": 2005.888888888889,
+      "groupId": "g-4",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "dateLabel": "2005-11-21",
+      "approximate": true,
+      "color": "#653EB3",
+      "noteFile": "event-001842598858.md",
+      "sources": [
+        {
+          "title": "Post by quietdiscerning",
+          "url": "https://supernatural-tv.livejournal.com/74668.html",
+          "description": ""
+        },
+        {
+          "title": "Link to the watermarked picture",
+          "url": "https://img.photobucket.com/albums/v197/Ardnassac/01.jpg",
+          "description": ""
+        },
+        {
+          "title": "Post by Simone",
+          "url": "https://sn-daily.livejournal.com/2005/11/25/",
+          "description": ""
+        },
+        {
+          "title": "Archived LaMoine",
+          "url": "https://web.archive.org/web/20051125220728/http://www.lamoine.com/",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "event-002509761501",
+      "type": "event",
+      "title": "National review: Red State TV",
+      "date": 2005.8916666666667,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-11-22",
+      "color": "#B33E52",
+      "noteFile": "event-002509761501.md",
+      "sources": [
+        {
+          "title": "Post by riotgirl77",
+          "url": "https://supernatural-tv.livejournal.com/60234.html",
+          "description": ""
+        },
+        {
+          "title": "Archived article",
+          "url": "https://web.archive.org/web/20051125043850/http://www.nationalreview.com/karnick/karnick200511220824.asp",
+          "description": ""
+        }
+      ],
+      "tags": [
+        "Article"
+      ]
+    },
+    {
+      "id": "event-003048390207",
+      "type": "event",
+      "title": "Today (TV Program): Jared Padalecki turns ‘Supernatural’ ",
+      "date": 2005.8388888888887,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-11-03",
+      "noteFile": "event-003048390207.md",
+      "sources": [
+        {
+          "title": "Today's article",
+          "url": "https://www.today.com/popculture/jared-padalecki-turns-supernatural-wbna9915920",
+          "description": ""
+        },
+        {
+          "title": "Chicago tribune link",
+          "url": "https://chicagotribune.newspapers.com/image/231561227/?match=10&terms=padalecki%20supernatural&search-id=d9366cd8-f91a-4949-baf6-75da72324bc0&search-rank=1",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52",
+      "tags": [
+        "Interview",
+        "Jared Padalecki"
+      ]
+    },
+    {
+      "id": "event-000136411189",
+      "type": "event",
+      "title": "People: Jared Padalecki\nThe Supernatural star talks about finding love and what really frightens him",
+      "date": 2005.911111111111,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-11-29",
+      "noteFile": "event-000136411189.md",
+      "sources": [
+        {
+          "title": "Post by riotgirl77",
+          "url": "https://supernatural-tv.livejournal.com/70083.html",
+          "description": ""
+        },
+        {
+          "title": "Archived article",
+          "url": "https://web.archive.org/web/20061210093345/http://people.aol.com/people/article/0,26334,1133515,00.html",
+          "description": ""
+        },
+        {
+          "title": "supernatural newsletter also mentioning it",
+          "url": "https://sn-newsletter.livejournal.com/2005/11/29/",
+          "description": "29/11/2005"
+        }
+      ],
+      "color": "#B33E52",
+      "tags": [
+        "Interview",
+        "Jared Padalecki"
+      ]
+    },
+    {
+      "id": "event-001032211318",
+      "type": "event",
+      "title": "My High School Journalism: Supernatural Captures Horror Flick Terror on the Small Screen",
+      "date": 2005.9381720430108,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-12-09",
+      "noteFile": "event-001032211318.md",
+      "sources": [
+        {
+          "title": "Post by riotgirl77",
+          "url": "https://supernatural-tv.livejournal.com/82362.html",
+          "description": ""
+        },
+        {
+          "title": "Archived article",
+          "url": "https://web.archive.org/web/20080126095248/http://www.my.highschooljournalism.org/ca/losangeles/uni/article.cfm?eid=4552&aid=66269",
+          "description": ""
+        },
+        {
+          "title": "Mention by supernatural newsletter",
+          "url": "https://sn-newsletter.livejournal.com/2005/12/12/",
+          "description": "12/12/2005"
+        }
+      ],
+      "color": "#B33E52",
+      "tags": [
+        "Article"
+      ]
+    },
+    {
+      "id": "event-001259948277",
+      "type": "event",
+      "title": "People Magazine",
+      "date": 2005.9543010752689,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "dateLabel": "2005-12-15",
+      "color": "#B33E52",
+      "approximate": true,
+      "noteFile": "event-001259948277.md",
+      "sources": [
+        {
+          "title": "Post by riotgirl77",
+          "url": "https://supernatural-tv.livejournal.com/85519.html",
+          "description": ""
+        }
+      ],
+      "tags": [
+        "Article"
+      ]
+    },
+    {
+      "id": "event-001598798187",
+      "type": "event",
+      "title": "Star! Inside Supernatural airs again",
+      "date": 2005.967741935484,
+      "groupId": "g-4",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "dateLabel": "2005-12-20",
+      "noteFile": "event-001598798187.md",
+      "sources": [
+        {
+          "title": "Post by allstar12",
+          "url": "https://supernatural-tv.livejournal.com/89997.html",
+          "description": ""
+        }
+      ],
+      "color": "#653EB3",
+      "tags": [
+        "Interview",
+        "Jensen Ackles",
+        "Jared Padalecki"
+      ]
+    },
+    {
+      "id": "event-000879937240",
+      "type": "event",
+      "title": "Play.com Supernatural DVD coming soon ",
+      "date": 2005.9623655913979,
+      "groupId": "g-4",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "dateLabel": "2005-12-18",
+      "noteFile": "event-000879937240.md",
+      "approximate": true,
+      "sources": [
+        {
+          "title": "Post by existentialism",
+          "url": "https://supernatural-tv.livejournal.com/88483.html",
+          "description": ""
+        },
+        {
+          "title": "Link on the post",
+          "url": "http://www.play.com/play247.asp?page=title&r=R2&title=857788&p=57&g=72&pa=sr",
+          "description": ""
+        },
+        {
+          "title": "Archived Play.com page",
+          "url": "https://web.archive.org/web/20051220070209/http://play.com/Play247.asp?pa=ch&page=comingsoon&r=R2",
+          "description": ""
+        }
+      ],
+      "color": "#653EB3"
+    },
+    {
+      "id": "event-000715547044",
+      "type": "event",
+      "title": "Zap2it: TV Gal Gives Good Quote",
+      "date": 2005.983870967742,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-12-26",
+      "noteFile": "event-000715547044.md",
+      "sources": [
+        {
+          "title": "Post by jazmin22",
+          "url": "https://supernatural-tv.livejournal.com/96135.html",
+          "description": ""
+        },
+        {
+          "title": "archived article",
+          "url": "https://web.archive.org/web/20051228091040/http://tv.zap2it.com/tveditorial/tve_main/1,1002,276%7C99245%7C1%7C,00.html",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52",
+      "tags": [
+        "Article"
+      ]
+    },
+    {
+      "id": "event-003917465242",
+      "type": "event",
+      "title": "Digital Spy: It's all about the January",
+      "date": 2005.8833333333332,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-11-19",
+      "noteFile": "event-003917465242.md",
+      "sources": [
+        {
+          "title": "Post by existentialism",
+          "url": "https://supernatural-tv.livejournal.com/98718.html",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52",
+      "tags": [
+        "Article"
+      ]
+    },
+    {
+      "id": "event-000013546745",
+      "type": "event",
+      "title": "The Ellen DeGeneres Show: Interview with Jared Padalecki",
+      "date": 2005.7472222222223,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-09-30",
+      "sources": [
+        {
+          "title": "Partial version on youtube",
+          "url": "https://www.youtube.com/watch?v=y8ae8V-lPtM",
+          "description": ""
+        },
+        {
+          "title": "SP Newsletter",
+          "url": "https://sn-newsletter.livejournal.com/2005/11/12/",
+          "description": ""
+        },
+        {
+          "title": "Wikipedia link",
+          "url": "https://en.wikipedia.org/wiki/The_Ellen_DeGeneres_Show_season_3",
+          "description": ""
+        },
+        {
+          "title": "supernatural wiki link",
+          "url": "https://supernaturalwiki.com/Interviews",
+          "description": ""
+        },
+        {
+          "title": "Whole interview on youtube",
+          "url": "https://www.youtube.com/watch?v=-SfTj0Cahx8",
+          "description": ""
+        }
+      ],
+      "noteFile": "event-000013546745.md",
+      "color": "#B33E52",
+      "tags": [
+        "Interview",
+        "Jared Padalecki"
+      ]
+    },
+    {
+      "id": "event-002089191815",
+      "type": "event",
+      "title": "KTLA: Interview with Jared Padalecki",
+      "date": 2005.6972222222223,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-09-12",
+      "noteFile": "event-002089191815.md",
+      "sources": [
+        {
+          "title": "Youtube link",
+          "url": "https://www.youtube.com/watch?v=KbKE3BcAAj8",
+          "description": ""
+        },
+        {
+          "title": "supernaturalwiki interviews page",
+          "url": "https://supernaturalwiki.com/Interviews",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52",
+      "tags": [
+        "Interview",
+        "Jared Padalecki"
+      ]
+    },
+    {
+      "id": "event-001888628337",
+      "type": "event",
+      "title": "LawrenceJournalWorld.com: Supernatural selection",
+      "date": 2005.8805555555555,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-11-18",
+      "noteFile": "event-001888628337.md",
+      "sources": [
+        {
+          "title": "LJWorld.com link",
+          "url": "https://www2.ljworld.com/news/2005/nov/18/supernatural_selection/?arts",
+          "description": ""
+        },
+        {
+          "title": "Mention at the supernatural newsletter",
+          "url": "https://sn-newsletter.livejournal.com/2005/11/22/",
+          "description": ""
+        }
+      ],
+      "tags": [
+        "Article"
+      ],
+      "color": "#B33E52"
+    },
+    {
+      "id": "event-002106943355",
+      "type": "event",
+      "title": "College Bound Teen: Mystery 101:\nSleuthing for Prime-Time Smarts",
+      "date": 2005.8916666666667,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-11-22",
+      "approximate": true,
+      "noteFile": "event-002106943355.md",
+      "sources": [
+        {
+          "title": "Archived article",
+          "url": "https://web.archive.org/web/20060207114427/http://www.collegebound.net/collegeboundteen/issues/nd05/tv-mystery.html",
+          "description": ""
+        },
+        {
+          "title": "supernatural newsletter",
+          "url": "https://sn-newsletter.livejournal.com/2005/11/22/",
+          "description": ""
+        }
+      ],
+      "tags": [
+        "Article",
+        "Jared Padalecki"
+      ],
+      "color": "#B33E52"
+    },
+    {
+      "id": "event-004182159868",
+      "type": "event",
+      "title": "Cafepress starts selling Supernatural merchandise",
+      "date": 2005.8916666666667,
+      "groupId": "g-4",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "dateLabel": "2005-11-22",
+      "approximate": true,
+      "noteFile": "event-004182159868.md",
+      "sources": [
+        {
+          "title": "Archived link",
+          "url": "https://web.archive.org/web/20051213090824/http://www.cafepress.com/cp/browse/N-1546_Ne-25_bt-2",
+          "description": ""
+        },
+        {
+          "title": "supernatural newsletter link",
+          "url": "https://sn-newsletter.livejournal.com/2005/11/22/",
+          "description": ""
+        }
+      ],
+      "color": "#653EB3"
+    },
+    {
+      "id": "event-000176762080",
+      "type": "event",
+      "title": "Inside TV: Secrets of 'Supernatural'",
+      "date": 2005.8306451612902,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-10-31",
+      "noteFile": "event-000176762080.md",
+      "sources": [
+        {
+          "title": "Post by simone",
+          "url": "https://sn-daily.livejournal.com/4172.html",
+          "description": ""
+        },
+        {
+          "title": "Post at the spn_newsletter community by marecagee",
+          "url": "https://sn-newsletter.livejournal.com/2005/11/24/",
+          "description": ""
+        },
+        {
+          "title": "Link to most of the images",
+          "url": "https://spn-ontheset.livejournal.com/tag/season%201/",
+          "description": ""
+        }
+      ],
+      "thumbnail": "31-10-2005 Inside TV.jpg",
+      "color": "#B33E52",
+      "tags": [
+        "Article",
+        "Loretta Devine",
+        "Jared Padalecki"
+      ],
+      "thumbnailStyle": "strip"
+    },
+    {
+      "id": "event-000149733261",
+      "type": "event",
+      "title": "The Wahington Post: A formula behind the fright",
+      "date": 2005.8279569892472,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-10-30",
+      "noteFile": "event-000149733261.md",
+      "sources": [
+        {
+          "title": "Post by Simone",
+          "url": "https://sn-daily.livejournal.com/8456.html",
+          "description": ""
+        },
+        {
+          "title": "The Washington Post",
+          "url": "https://www.washingtonpost.com/archive/lifestyle/tv/2005/10/30/a-formula-behind-the-fright/e2a7fd66-bff7-4b75-9f54-4cd04a298556/",
+          "description": ""
+        }
+      ],
+      "tags": [
+        "Article",
+        "Robert Singer"
+      ],
+      "thumbnail": "09-12-2005 The washington post.jpg",
+      "color": "#B33E52",
+      "thumbnailStyle": "strip"
+    },
+    {
+      "id": "event-001043133280",
+      "type": "event",
+      "title": "TV Guide: Supernatural scanned image",
+      "date": 2005.713888888889,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "approximate": true,
+      "dateLabel": "2005-09-18",
+      "noteFile": "event-001043133280.md",
+      "sources": [
+        {
+          "title": "Post by simone",
+          "url": "https://sn-daily.livejournal.com/2005/11/14/",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52",
+      "thumbnail": "18-09-2005 tv guide scanned image.png",
+      "thumbnailStyle": "strip"
+    },
+    {
+      "id": "event-000958895850",
+      "type": "event",
+      "title": "Inside TV: Supernatural",
+      "date": 2005.774193548387,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-10-10",
+      "noteFile": "event-000958895850.md",
+      "sources": [
+        {
+          "title": "Postby Simone",
+          "url": "https://sn-daily.livejournal.com/2005/11/24/",
+          "description": ""
+        },
+        {
+          "title": "Futon Critic copy of the press release",
+          "url": "http://www.thefutoncritic.com/news/2005/10/06/supernatural-given-full-season-pick-up-by-the-wb-19444/20051006wb01/",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52",
+      "tags": [
+        "Article"
+      ],
+      "thumbnail": "10-10-2005 Tv guide scan.jpg",
+      "approximate": true,
+      "thumbnailStyle": "strip"
+    },
+    {
+      "id": "event-004265904428",
+      "type": "event",
+      "title": "Teen People: Young Hollywood",
+      "date": 2005.6666666666667,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-09-01",
+      "noteFile": "event-004265904428.md",
+      "sources": [
+        {
+          "title": "Post by Simone",
+          "url": "https://sn-daily.livejournal.com/5479.html",
+          "description": ""
+        },
+        {
+          "title": "Magazine on ebay",
+          "url": "https://www.ebay.com/itm/336748970219?_trksid=p2332490.c101224.m-1",
+          "description": ""
+        },
+        {
+          "title": "Video interview",
+          "url": "https://www.youtube.com/watch?v=GUDPrpWviYE",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52",
+      "tags": [
+        "Article",
+        "Jared Padalecki"
+      ],
+      "thumbnailStyle": "banner"
+    },
+    {
+      "id": "event-000942836954",
+      "type": "event",
+      "title": "The Futon Critic: Development Update: January 17-18",
+      "date": 2005.0456989247311,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-01-18",
+      "noteFile": "event-000942836954.md",
+      "tags": [
+        "Article"
+      ],
+      "color": "#B33E52",
+      "sources": [
+        {
+          "title": "Article link",
+          "url": "http://www.thefutoncritic.com/news/2005/01/18/development-update-january-17-18-17659/6810/",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "event-003699167307",
+      "type": "event",
+      "title": "The Futon Critic: Development Update: March 22",
+      "date": 2005.22311827957,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-03-22",
+      "color": "#B33E52",
+      "tags": [
+        "Article"
+      ],
+      "noteFile": "event-003699167307.md",
+      "sources": [
+        {
+          "title": "Article link",
+          "url": "http://www.thefutoncritic.com/news/2005/03/22/development-update-march-22-18036/6857/",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "event-000127012993",
+      "type": "event",
+      "title": "The Futon Critic: Development Update: February 16",
+      "date": 2005.1279761904761,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-02-16",
+      "color": "#B33E52",
+      "tags": [
+        "Article"
+      ],
+      "noteFile": "event-000127012993.md",
+      "sources": [
+        {
+          "title": "Article link",
+          "url": "http://www.thefutoncritic.com/news/2005/02/16/development-update-february-16-17858/6830/",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "event-003591689763",
+      "type": "event",
+      "title": "Los Angeles Times: It's a life of hard knocks",
+      "date": 2005.5672043010752,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-07-26",
+      "noteFile": "event-003591689763.md",
+      "color": "#B33E52",
+      "tags": [
+        "Article",
+        "Eddy Donno"
+      ]
+    },
+    {
+      "id": "event-002539823131",
+      "type": "event",
+      "title": "Dark Horizons: \t\n\"Supernatural & \"Loop\" Pilot Reviews",
+      "date": 2005.5913978494623,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-08-04",
+      "color": "#B33E52",
+      "noteFile": "event-002539823131.md",
+      "tags": [
+        "Article"
+      ],
+      "sources": [
+        {
+          "title": "Archived article",
+          "url": "https://web.archive.org/web/20050706111459/https://www.darkhorizons.com/news05/050704b.php",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "event-000491334358",
+      "type": "event",
+      "title": "Twiz TV: \"SUPERNATURAL\"",
+      "date": 2005.6290322580644,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-08-18",
+      "approximate": true,
+      "noteFile": "event-000491334358.md",
+      "thumbnail": "18-08-2005 Twiz TV screenshot.png",
+      "color": "#B33E52",
+      "thumbnailStyle": "strip"
+    },
+    {
+      "id": "event-002591432757",
+      "type": "event",
+      "title": "KryptonSite: Jensen Ackles Talks Smallville & Supernatural At The Summer TCA",
+      "date": 2005.5618279569892,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-07-24",
+      "color": "#B33E52",
+      "tags": [
+        "Interview",
+        "Jensen Ackles"
+      ],
+      "noteFile": "event-002591432757.md",
+      "sources": [
+        {
+          "title": "Forum comment",
+          "url": "https://web.archive.org/web/20070325051147/http://www.mediablvd.com/forums/index.php?showtopic=28645&st=20",
+          "description": ""
+        },
+        {
+          "title": "KryptonSite interview",
+          "url": "https://web.archive.org/web/20050729005012/http://www.kryptonsite.com/",
+          "description": ""
+        }
+      ],
+      "thumbnail": "24-07-205 KryptonSite.png",
+      "thumbnailStyle": "strip"
+    },
+    {
+      "id": "event-002557872607",
+      "type": "event",
+      "title": "Arkansas Democrat-Gazette: WB adds four series to woo twenty-, thirtysomethings",
+      "date": 2005.5860215053763,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "dateLabel": "2005-08-02",
+      "noteFile": "event-002557872607.md",
+      "color": "#B33E52",
+      "tags": [
+        "Article"
+      ],
+      "sources": [
+        {
+          "title": "Forum comment",
+          "url": "https://web.archive.org/web/20070325051147/http://www.mediablvd.com/forums/index.php?showtopic=28645&st=20",
+          "description": ""
+        },
+        {
+          "title": "Link to the gazette's article",
+          "url": "https://web.archive.org/web/20070325051147/http://www.nwanews.com/story.php?paper=adg&section=Style&storyid=123766",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "event-004030841275",
+      "type": "event",
+      "title": "Seattle Post-Intelligencer: Fall TV Preview: A fall season viewers can warm up to",
+      "date": 2005.5860215053763,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-08-02",
+      "thumbnail": "supercringtural/02-08-2005 Seattle Post-Intelligencer-1.png",
+      "thumbnailStyle": "strip",
+      "thumbnailFit": "contain",
+      "color": "#B33E52",
+      "tags": [
+        "Article"
+      ],
+      "noteFile": "event-004030841275.md",
+      "sources": [
+        {
+          "title": "Forum comment",
+          "url": "https://web.archive.org/web/20070325051147/http://www.mediablvd.com/forums/index.php?showtopic=28645&st=20",
+          "description": ""
+        },
+        {
+          "title": "Link not archived",
+          "url": "https://web.archive.org/web/20070325051147/http://seattlepi.nwsource.com/tv/234807_tv02.html?source=rss",
+          "description": ""
+        },
+        {
+          "title": "Article",
+          "url": "https://web.archive.org/web/20050804001932/http://seattlepi.nwsource.com/tv/234807_tv02.html",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "event-001022985429",
+      "type": "event",
+      "title": "Brandrepublic: ITV buys UK rights to Warner Bros' Supernatural drama",
+      "date": 2005.5940860215053,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "dateLabel": "2005-08-05",
+      "thumbnail": "05-08-2005 Brandrepublic.png",
+      "thumbnailFit": "cover",
+      "thumbnailStyle": "strip",
+      "color": "#B33E52",
+      "noteFile": "event-001022985429.md",
+      "sources": [
+        {
+          "title": "Forum comment",
+          "url": "https://web.archive.org/web/20070325051147/http://www.mediablvd.com/forums/index.php?showtopic=28645&st=20",
+          "description": ""
+        },
+        {
+          "title": "Brandrepublic 05/08/2005",
+          "url": "https://web.archive.org/web/20050805082917/http://www.brandrepublic.com/",
+          "description": ""
+        }
+      ],
+      "tags": [
+        "Article"
+      ]
+    },
+    {
+      "id": "event-001816002252",
+      "type": "event",
+      "title": "Buffalo news: New season promises six strange twists",
+      "date": 2005.6075268817203,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-08-10",
+      "noteFile": "event-001816002252.md",
+      "sources": [
+        {
+          "title": "Forum comment",
+          "url": "https://web.archive.org/web/20070325051147/http://www.mediablvd.com/forums/index.php?showtopic=28645&st=20",
+          "description": ""
+        },
+        {
+          "title": "Archived article",
+          "url": "https://web.archive.org/web/20050812021331/http://www.buffalonews.com/editorial/20050810/1017414.asp",
+          "description": ""
+        }
+      ],
+      "thumbnail": "10-08-2005 Buffalo news.png",
+      "color": "#B33E52",
+      "tags": [
+        "Article",
+        "Erik Kripke",
+        "Robert Singer"
+      ],
+      "thumbnailStyle": "strip"
+    },
+    {
+      "id": "event-002704722395",
+      "type": "event",
+      "title": "Article mentioned by LisaKay",
+      "date": 2005.513440860215,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "dateLabel": "2005-07-06",
+      "noteFile": "event-002704722395.md",
+      "sources": [
+        {
+          "title": "Post with article",
+          "url": "https://web.archive.org/web/20070325051147/http://www.mediablvd.com/forums/index.php?showtopic=28645&st=20",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52"
+    },
+    {
+      "id": "event-002329435497",
+      "type": "event",
+      "title": "Eonline article referenced by kylevalentifan",
+      "date": 2005.6102150537633,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "dateLabel": "2005-08-11",
+      "noteFile": "event-002329435497.md",
+      "sources": [
+        {
+          "title": "Forum post",
+          "url": "https://web.archive.org/web/20070325051157/http://www.mediablvd.com/forums/index.php?showtopic=28645&st=40",
+          "description": ""
+        },
+        {
+          "title": "Non archived new",
+          "url": "https://web.archive.org/web/20071029003115/http://yahoo.eonline.com/News/Items/0,1,16569,00.html?yhnws",
+          "description": ""
+        }
+      ],
+      "approximate": true,
+      "color": "#B33E52",
+      "tags": [
+        "Article",
+        "David Janollari"
+      ]
+    },
+    {
+      "id": "event-004142575167",
+      "type": "event",
+      "title": "Media Life Magazine: WB's Garth Ancier on the fall season",
+      "date": 2005.6102150537633,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "dateLabel": "2005-08-11",
+      "tags": [
+        "Interview",
+        "Garth Ancier"
+      ],
+      "noteFile": "event-004142575167.md",
+      "sources": [
+        {
+          "title": "Forum post",
+          "url": "https://web.archive.org/web/20070325051157/http://www.mediablvd.com/forums/index.php?showtopic=28645&st=40",
+          "description": ""
+        },
+        {
+          "title": "Non archived article link",
+          "url": "https://web.archive.org/web/20070325051157/http://www.medialifemagazine.com/News2005/aug05/aug8/4_thurs/news2thursday.html",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52",
+      "approximate": true
+    },
+    {
+      "id": "event-001242294397",
+      "type": "event",
+      "title": "Mediaweek: A 'Heads up'!",
+      "date": 2005.6102150537633,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-08-11",
+      "tags": [
+        "Article"
+      ],
+      "color": "#B33E52",
+      "noteFile": "event-001242294397.md",
+      "sources": [
+        {
+          "title": "Forum post",
+          "url": "https://web.archive.org/web/20070325051157/http://www.mediablvd.com/forums/index.php?showtopic=28645&st=40",
+          "description": ""
+        },
+        {
+          "title": "Archived article",
+          "url": "https://web.archive.org/web/20051123213001/http://www.mediaweek.com/mw/news/print/article_display.jsp?vnu_content_id=1001013417",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "event-000434347881",
+      "type": "event",
+      "title": "US weekly: special Supernatural ad",
+      "date": 2005.6972222222223,
+      "groupId": "g-4",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "dateLabel": "2005-09-12",
+      "color": "#653EB3",
+      "noteFile": "event-000434347881.md",
+      "sources": [
+        {
+          "title": "Article referencing it",
+          "url": "https://web.archive.org/web/20051123213001/http://www.mediaweek.com/mw/news/print/article_display.jsp?vnu_content_id=1001013417",
+          "description": ""
+        },
+        {
+          "title": "The Ellen DeGeneres Show",
+          "url": "https://www.youtube.com/watch?v=-SfTj0Cahx8",
+          "description": "From 00:00:52 to 00:01:05"
+        }
+      ],
+      "tags": [
+        "Ad"
+      ]
+    },
+    {
+      "id": "event-001354097065",
+      "type": "event",
+      "title": "Rolling Stone: special Supernatural ad",
+      "date": 2005.7250000000001,
+      "groupId": "g-4",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "dateLabel": "2005-09-22",
+      "noteFile": "event-001354097065.md",
+      "color": "#653EB3",
+      "sources": [
+        {
+          "title": "Article referencing it",
+          "url": "https://web.archive.org/web/20051123213001/http://www.mediaweek.com/mw/news/print/article_display.jsp?vnu_content_id=1001013417",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "event-003699445335",
+      "type": "event",
+      "title": "Dreamwatch Magazine: Highway to Hell",
+      "date": 2005.5833333333333,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-08-01",
+      "noteFile": "event-003699445335.md",
+      "sources": [
+        {
+          "title": "Forum post",
+          "url": "https://web.archive.org/web/20070325051157/http://www.mediablvd.com/forums/index.php?showtopic=28645&st=40",
+          "description": ""
+        },
+        {
+          "title": "jensenrossacklesunlimited",
+          "url": "https://web.archive.org/web/20070124174453/http://www.jraunlimited.com/library/librarySN.html",
+          "description": ""
+        },
+        {
+          "title": "issue cover (n.10)",
+          "url": "https://www.mycomicshop.com/search?TID=299621",
+          "description": ""
+        }
+      ],
+      "tags": [
+        "Article",
+        "Erik Kripke",
+        "McG"
+      ],
+      "thumbnail": "01-08--2005 Dreamwatch Collage.png",
+      "color": "#B33E52",
+      "thumbnailStyle": "strip"
+    },
+    {
+      "id": "event-001809755140",
+      "type": "event",
+      "title": "Sci Fi magazine: October issue ",
+      "date": 2005.75,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-10-01",
+      "noteFile": "event-001809755140.md",
+      "sources": [
+        {
+          "title": "Forum post",
+          "url": "https://web.archive.org/web/20070325051157/http://www.mediablvd.com/forums/index.php?showtopic=28645&st=40",
+          "description": ""
+        },
+        {
+          "title": "jensenrossacklesunlimited",
+          "url": "https://web.archive.org/web/20070124174453/http://www.jraunlimited.com/library/librarySN.html",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52",
+      "thumbnail": "Sci Fi magazine 2005 Collage.png",
+      "tags": [
+        "Article",
+        "Erik Kripke"
+      ],
+      "thumbnailStyle": "strip"
+    },
+    {
+      "id": "event-000253364629",
+      "type": "event",
+      "title": "Contaxguide.com: A boy Buffy?\nJensen Ackles fights evil in ‘Supernatural’",
+      "date": 2005.6048387096773,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "dateLabel": "2005-08-09",
+      "noteFile": "event-000253364629.md",
+      "sources": [
+        {
+          "title": "jensenrossacklesunlimited",
+          "url": "https://web.archive.org/web/20070124174453/http://www.jraunlimited.com/library/librarySN.html",
+          "description": ""
+        },
+        {
+          "title": "Article at jensenrossacklesunlimited",
+          "url": "https://web.archive.org/web/20061113110540/http://www.jraunlimited.com/library/SN/20050908StrangeWorlds.htm",
+          "description": ""
+        },
+        {
+          "title": "Archived contaxguide",
+          "url": "https://web.archive.org/web/20051223190856/http://contaxguide.com/",
+          "description": ""
+        },
+        {
+          "title": "Post by ~Maz~",
+          "url": "https://www.fanforum.com/f222/about-show-news-countdown-48369/index20.html",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52",
+      "tags": [
+        "Interview",
+        "Jensen Ackles"
+      ]
+    },
+    {
+      "id": "event-003073141254",
+      "type": "event",
+      "title": "Fort worth star telegram: Supernatural review",
+      "date": 2005.5591397849462,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "dateLabel": "2005-07-23",
+      "color": "#B33E52",
+      "noteFile": "event-003073141254.md",
+      "sources": [
+        {
+          "title": "Forum posts",
+          "url": "https://web.archive.org/web/20070325045924/http://www.mediablvd.com/forums/index.php?showtopic=28645&st=0",
+          "description": ""
+        },
+        {
+          "title": "Non archived llink",
+          "url": "https://web.archive.org/web/20210211182431/http://www.dfw.com/mld/dfw/entertainment/12206286.htm",
+          "description": ""
+        }
+      ],
+      "tags": [
+        "Article",
+        "Brad Turell"
+      ]
+    },
+    {
+      "id": "event-001942492431",
+      "type": "event",
+      "title": "Huston Chronicle: News on 4 new WB shows is scary But only one, Supernatural, is truly frightening",
+      "date": 2005.5645161290322,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "dateLabel": "2005-07-25",
+      "approximate": true,
+      "noteFile": "event-001942492431.md",
+      "sources": [
+        {
+          "title": "Forum post",
+          "url": "https://web.archive.org/web/20070325045924/http://www.mediablvd.com/forums/index.php?showtopic=28645&st=0",
+          "description": ""
+        },
+        {
+          "title": "Non-archived article link",
+          "url": "https://web.archive.org/web/20070325045924/http://www.chron.com/cs/CDA/ssistory.mpl/headline/entertainment/3279998",
+          "description": ""
+        },
+        {
+          "title": "Huston Chronicle news for the day",
+          "url": "https://web.archive.org/web/20050725074658/https://www.chron.com/",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52",
+      "tags": [
+        "Article",
+        "Erik Kripke",
+        "McG"
+      ]
+    },
+    {
+      "id": "event-001715409123",
+      "type": "event",
+      "title": "Charlotte Observer: TV season back to old haunts",
+      "date": 2005.5645161290322,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "dateLabel": "2005-07-25",
+      "noteFile": "event-001715409123.md",
+      "sources": [
+        {
+          "title": "Forum post",
+          "url": "https://web.archive.org/web/20070325045924/http://www.mediablvd.com/forums/index.php?showtopic=28645&st=0",
+          "description": ""
+        },
+        {
+          "title": "Non-archived article",
+          "url": "https://web.archive.org/web/20070325045924/http://www.charlotte.com/mld/charlotte/entertainment/columnists/mark_washburn/12209951.htm",
+          "description": ""
+        },
+        {
+          "title": "main Charlotte Observer webpage 25/07/2005",
+          "url": "https://web.archive.org/web/20050725154749/http://www.charlotte.com/mld/charlotte/",
+          "description": ""
+        }
+      ],
+      "approximate": true,
+      "color": "#B33E52",
+      "tags": [
+        "Article",
+        "Erik Kripke"
+      ]
+    },
+    {
+      "id": "event-001885124844",
+      "type": "event",
+      "title": "TV Week / TV Guide ",
+      "date": 2005.75,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "dotted",
+      "eventBorderStyle": "dotted",
+      "dateLabel": "2005-10-01",
+      "approximate": true,
+      "sources": [
+        {
+          "title": "Link to the tumblr post",
+          "url": "https://www.tumblr.com/demondetoxmanual/173248486379/justjensenanddean-jensen-ackles-tv-guide",
+          "description": ""
+        },
+        {
+          "title": "jensenrossackles website",
+          "url": "https://web.archive.org/web/20070124174453/http://www.jraunlimited.com/library/librarySN.html",
+          "description": ""
+        }
+      ],
+      "noteFile": "event-001885124844.md",
+      "thumbnail": "10-2005 TV Week.jpg",
+      "color": "#B33E52",
+      "tags": [
+        "Article",
+        "Jensen Ackles"
+      ],
+      "thumbnailStyle": "strip"
+    },
+    {
+      "id": "event-002669446122",
+      "type": "event",
+      "title": "Cult Times: Supernatural preview and interview with Erik Kripke",
+      "date": 2005.9166666666667,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-12-01",
+      "sources": [
+        {
+          "title": "Issue's cover",
+          "url": "https://www.ebay.fr/itm/305612544987",
+          "description": ""
+        },
+        {
+          "title": "jensenrossacklesunlimited scans",
+          "url": "https://web.archive.org/web/20070124174453/http://www.jraunlimited.com/library/librarySN.html",
+          "description": ""
+        }
+      ],
+      "noteFile": "event-002669446122.md",
+      "tags": [
+        "Article",
+        "Interview",
+        "Erik Kripke"
+      ],
+      "color": "#B33E52",
+      "thumbnail": "08-12-2005 Cult times Collage.png",
+      "thumbnailStyle": "strip"
+    },
+    {
+      "id": "event-002147259427",
+      "type": "event",
+      "title": "The Futon Critic: Development Update: September 13-17 ",
+      "date": 2004.7111111111112,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2004-09-17",
+      "color": "#B33E52",
+      "noteFile": "event-002147259427.md",
+      "sources": [
+        {
+          "title": "Article link",
+          "url": "http://www.thefutoncritic.com/news/2004/09/17/development-update-september-13-17-16931/6739/",
+          "description": ""
+        }
+      ],
+      "tags": [
+        "Article"
+      ]
+    },
+    {
+      "id": "event-002109506627",
+      "type": "event",
+      "title": "The Futon Critic: Nbc, Abc, FOX and the WB Set Initial 2005-06 Season Orders ",
+      "date": 2005.3709677419354,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-05-15",
+      "noteFile": "event-002109506627.md",
+      "sources": [
+        {
+          "title": "Article link",
+          "url": "http://www.thefutoncritic.com/news/2005/05/15/nbc-abc-fox-and-the-wb-set-initial-2005-06-season-orders-18380/6904/",
+          "description": ""
+        }
+      ],
+      "tags": [
+        "Article"
+      ],
+      "color": "#B33E52"
+    },
+    {
+      "id": "event-000174935805",
+      "type": "event",
+      "title": "The Futon Critic: The WB Announces 2005-06 Primetime Schedule",
+      "date": 2005.3763440860214,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-05-17",
+      "noteFile": "event-000174935805.md",
+      "sources": [
+        {
+          "title": "Article link",
+          "url": "http://www.thefutoncritic.com/news/2005/05/17/the-wb-announces-2005-06-primetime-schedule-18402/20050517wb01/",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52",
+      "tags": [
+        "Article"
+      ]
+    },
+    {
+      "id": "event-001199540618",
+      "type": "event",
+      "title": "The Futon Critic: The WB's Cornerstone Series Secure Growth for the 2004-2005 Season",
+      "date": 2005.4005376344085,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-05-26",
+      "noteFile": "event-001199540618.md",
+      "sources": [
+        {
+          "title": "Article link",
+          "url": "http://www.thefutoncritic.com/news/2005/05/26/the-wbs-cornerstone-series-secure-growth-for-the-2004-2005-season-18459/20050526wb01/",
+          "description": ""
+        }
+      ],
+      "tags": [
+        "Article"
+      ],
+      "color": "#B33E52"
+    },
+    {
+      "id": "event-002521810569",
+      "type": "event",
+      "title": "The Futon Critic: The Futon's First Look: \"Supernatural\" (The WB)",
+      "date": 2005.5537634408602,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-07-21",
+      "noteFile": "event-002521810569.md",
+      "color": "#B33E52",
+      "tags": [
+        "Article"
+      ],
+      "sources": [
+        {
+          "title": "Article link",
+          "url": "http://www.thefutoncritic.com/reviews/2005/07/21/the-futons-first-look-supernatural-the-wb-18813/20050721_supernatural/",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "event-003434670458",
+      "type": "event",
+      "title": "The Futon Critic: The WB's 2005 Premiere Schedule",
+      "date": 2005.5564516129032,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-07-22",
+      "tags": [
+        "Article"
+      ],
+      "noteFile": "event-003434670458.md",
+      "color": "#B33E52",
+      "sources": [
+        {
+          "title": "Article link",
+          "url": "http://www.thefutoncritic.com/news/2005/07/22/the-wbs-2005-premiere-schedule-18832/20050722wb01/",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "event-002446874222",
+      "type": "event",
+      "title": "The Futon Critic: The WB's 'Supernatural' & Yahoo! Entertainment Give Users an Exclusive Sneak Peek of This Highly Anticipated Fall Series from Warner BroS. Television Productions",
+      "date": 2005.6805555555557,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-09-06",
+      "noteFile": "event-002446874222.md",
+      "color": "#B33E52",
+      "tags": [
+        "Article"
+      ],
+      "sources": [
+        {
+          "title": "Article link",
+          "url": "http://www.thefutoncritic.com/news/2005/09/06/the-wbs-supernatural-and-yahoo-entertainment-give-users-an-exclusive-sneak-peek-of-this-highly-anticipated-fall-series-from-warner-bros-television-productions-19162/20050906wb01/",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "event-002522650530",
+      "type": "event",
+      "title": "The Futon Critic: Luke Says Yes to Lorelai and Fall 2005 Gets Off to a \"Supernatural\" Start for the Wb",
+      "date": 2005.7027777777778,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-09-14",
+      "tags": [
+        "Article"
+      ],
+      "noteFile": "event-002522650530.md",
+      "color": "#B33E52",
+      "sources": [
+        {
+          "title": "Article link",
+          "url": "http://www.thefutoncritic.com/news/2005/09/14/luke-says-yes-to-lorelai-and-fall-2005-gets-off-to-a-supernatural-start-for-the-wb-19241/20050914wb01/",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "event-000619721454",
+      "type": "event",
+      "title": "The Futon Critic: Gilmore Girls #1 in Women 12-34 & #2 in Women 18-34",
+      "date": 2005.738888888889,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-09-27",
+      "sources": [
+        {
+          "title": "Article link",
+          "url": "http://www.thefutoncritic.com/news/2005/09/28/gilmore-girls-number-1-in-women-12-34-and-number-2-in-women-18-34--19369/20050928wb01/",
+          "description": ""
+        }
+      ],
+      "noteFile": "event-000619721454.md",
+      "color": "#B33E52",
+      "tags": [
+        "Article"
+      ]
+    },
+    {
+      "id": "event-003730395759",
+      "type": "event",
+      "title": "The Futon Critic: Supernatural Improves in Its Second Week",
+      "date": 2005.7194444444444,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-09-20",
+      "noteFile": "event-003730395759.md",
+      "color": "#B33E52",
+      "sources": [
+        {
+          "title": "Article link",
+          "url": "http://www.thefutoncritic.com/ratings/2005/09/20/supernatural-improves-in-its-second-week-19292/20050920wb01/",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "event-003511739735",
+      "type": "event",
+      "title": "The Futon Critic: The WB Tuesday Up Across the Board in Week Four! Network Ranks a Strong Second in Persons 12-34, Females 12-34 and Women 18-34, and Leads Teen and Female Teen Demos",
+      "date": 2005.760752688172,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-10-05",
+      "color": "#B33E52",
+      "tags": [
+        "Article"
+      ],
+      "noteFile": "event-003511739735.md"
+    },
+    {
+      "id": "event-002726692322",
+      "type": "event",
+      "title": "The Futon Critic: Supernatural Given Full-Season Pick-Up by the Wb",
+      "date": 2005.763440860215,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-10-06",
+      "tags": [
+        "Article"
+      ],
+      "color": "#B33E52",
+      "noteFile": "event-002726692322.md"
+    },
+    {
+      "id": "event-003920849010",
+      "type": "event",
+      "title": "The Futon Critic: The WB Defeats UPN for the Entire Week in Every Major Demo",
+      "date": 2005.77688172043,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-10-11",
+      "noteFile": "event-003920849010.md",
+      "sources": [
+        {
+          "title": "Article link",
+          "url": "http://www.thefutoncritic.com/news/2005/10/11/the-wb-defeats-upn-for-the-entire-week-in-every-major-demo-19483/20051011wb01/",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52",
+      "tags": [
+        "Article"
+      ]
+    },
+    {
+      "id": "event-000054645350",
+      "type": "event",
+      "title": "The Futon Critic: The WB Revamps Its Schedule as 'Fran,' 'Blue Collar' Head to Hiatus",
+      "date": 2005.7956989247311,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-10-18",
+      "noteFile": "event-000054645350.md",
+      "sources": [
+        {
+          "title": "Article link",
+          "url": "http://www.thefutoncritic.com/news/2005/10/18/the-wb-revamps-its-schedule-as-fran-blue-collar-head-to-hiatus-19546/7011/",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52",
+      "tags": [
+        "Article"
+      ]
+    },
+    {
+      "id": "event-002717861682",
+      "type": "event",
+      "title": "The Futon Critic: Supernatural Improves Again, Scoring Its Best Ratings of the Season in Persons 12-34, Women 18-34, Women 18-49 and Women 12-34\n",
+      "date": 2005.779569892473,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-10-12",
+      "tags": [
+        "Article"
+      ],
+      "noteFile": "event-002717861682.md",
+      "color": "#B33E52",
+      "sources": [
+        {
+          "title": "Article link",
+          "url": "http://www.thefutoncritic.com/ratings/2005/10/12/supernatural-improves-again-scoring-its-best-ratings-of-the-season-in-persons-12-34-women-18-34-women-18-49-and-women-12-34-19495/20051012wb01/",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "event-003330038733",
+      "type": "event",
+      "title": "The Futon Critic: The WB Sunday and Monday Both Have Quality Nights for the Wb",
+      "date": 2005.7956989247311,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-10-18",
+      "tags": [
+        "Article"
+      ],
+      "noteFile": "event-003330038733.md",
+      "sources": [
+        {
+          "title": "Article link",
+          "url": "http://www.thefutoncritic.com/news/2005/10/18/the-wb-sunday-and-monday-both-have-quality-nights-for-the-wb-19544/20051018wb01/",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52"
+    },
+    {
+      "id": "event-002390432827",
+      "type": "event",
+      "title": "The Futon Critic: The WB Tuesday Reaches New Heights",
+      "date": 2005.7983870967741,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-10-19",
+      "noteFile": "event-002390432827.md",
+      "sources": [
+        {
+          "title": "Article link",
+          "url": "http://www.thefutoncritic.com/news/2005/10/19/the-wb-tuesday-reaches-new-heights-19562/20051019wb01/",
+          "description": ""
+        }
+      ],
+      "tags": [
+        "Article"
+      ],
+      "color": "#B33E52"
+    },
+    {
+      "id": "event-003169844837",
+      "type": "event",
+      "title": "The Futon Critic: The WB's November Sweep",
+      "date": 2005.8010752688172,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-10-20",
+      "noteFile": "event-003169844837.md",
+      "sources": [
+        {
+          "title": "Article link",
+          "url": "http://www.thefutoncritic.com/news/2005/10/20/the-wbs-november-sweep-19580/20051020wb01/",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52",
+      "tags": [
+        "Article"
+      ]
+    },
+    {
+      "id": "event-000158327135",
+      "type": "event",
+      "title": "The Futon Critic: Ratings Continue to Build at the WB as the Network Achieves Gains in Key Male Demos and Total Viewers Compared to the Parallel Week Last Season and Is on Pace with the Parallel Week ",
+      "date": 2005.8145161290322,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-10-25",
+      "color": "#B33E52",
+      "tags": [
+        "Article"
+      ],
+      "noteFile": "event-000158327135.md",
+      "sources": [
+        {
+          "title": "Article link",
+          "url": "http://www.thefutoncritic.com/ratings/2005/10/25/ratings-continue-to-build-at-the-wb-as-the-network-achieves-gains-in-key-male-demos-and-total-viewers-compared-to-the-parallel-week-last-season-and-is-on-pace-with-the-parallel-week-last-year-in-adults-18-34-adults-18-49-persons-12-34--19617/20051025wb01/",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "event-003733599745",
+      "type": "event",
+      "title": "The Futon Critic : Highest-Rated Friday & Sunday of the Broadcast Season Join the WB Tuesday & Thursday Among the Network's Success Stories for the Week",
+      "date": 2005.8333333333333,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-11-01",
+      "sources": [
+        {
+          "title": "Article link",
+          "url": "http://www.thefutoncritic.com/ratings/2005/11/01/highest-rated-friday-and-sunday-of-the-broadcast-season-join-the-wb-tuesday-and-thursday-among-the-networks-success-stories-for-the-week-19679/20051101wb01/",
+          "description": ""
+        }
+      ],
+      "noteFile": "event-003733599745.md",
+      "tags": [
+        "Article"
+      ],
+      "color": "#B33E52"
+    },
+    {
+      "id": "event-001299747254",
+      "type": "event",
+      "title": "The Futon Critic : The WB Cuts 'What I Like'; FOX Perks Up 'Confidential'",
+      "date": 2005.758064516129,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-10-04",
+      "tags": [
+        "Article"
+      ],
+      "noteFile": "event-001299747254.md",
+      "color": "#B33E52",
+      "sources": [
+        {
+          "title": "Article link",
+          "url": "http://www.thefutoncritic.com/news/2005/11/04/the-wb-cuts-what-i-like-fox-perks-up-confidential-19719/7026/",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "event-000434594265",
+      "type": "event",
+      "title": "The Futon Critc: Gilmore Girls and \"Supernatural\" Both Achieve Great Gains Over the Parallel Tuesday Last Season",
+      "date": 2005.8091397849462,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-10-23",
+      "tags": [
+        "Article"
+      ],
+      "noteFile": "event-000434594265.md",
+      "sources": [
+        {
+          "title": "Article link",
+          "url": "http://www.thefutoncritic.com/news/2005/11/23/gilmore-girls-and-supernatural-both-achieve-great-gains-over-the-parallel-tuesday-last-season-19901/20051123wb01/",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52"
+    },
+    {
+      "id": "event-001324984413",
+      "type": "event",
+      "title": "The Futon Critic: The Shows Are the Star for the WB in November",
+      "date": 2005.9138888888888,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-11-30",
+      "tags": [
+        "Article"
+      ],
+      "color": "#B33E52",
+      "sources": [
+        {
+          "title": "Article link",
+          "url": "http://www.thefutoncritic.com/news/2005/11/30/the-shows-are-the-star-for-the-wb-in-november--19963/20051130wb01/",
+          "description": ""
+        }
+      ],
+      "noteFile": "event-001324984413.md"
+    },
+    {
+      "id": "event-000616409091",
+      "type": "event",
+      "title": "The Futon Critic: Have Yourself a Very Scary Christmas",
+      "date": 2005.9274193548388,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-12-05",
+      "sources": [
+        {
+          "title": "Article link",
+          "url": "http://www.thefutoncritic.com/news/2005/12/05/have-yourself-a-very-scary-christmas-20000/20051205wb01/",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52",
+      "tags": [
+        "Article"
+      ],
+      "noteFile": "event-000616409091.md"
+    },
+    {
+      "id": "event-003390794728",
+      "type": "event",
+      "title": "Seattle Post Intelligencer: Beyond \"Supernatural,\" I couldn't relate.",
+      "date": 2005.5591397849462,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "dotted",
+      "eventBorderStyle": "dotted",
+      "dateLabel": "2005-07-23",
+      "noteFile": "event-003390794728.md",
+      "sources": [
+        {
+          "title": "Forum post",
+          "url": "https://www.fanforum.com/f222/about-show-news-countdown-48369/index5.html",
+          "description": ""
+        },
+        {
+          "title": "Badly archived article",
+          "url": "https://web.archive.org/web/20081122123309/http://blog.seattlepi.nwsource.com/tv/archives/005322.html",
+          "description": ""
+        },
+        {
+          "title": "Similar article",
+          "url": "https://web.archive.org/web/20050727013359/http://blog.seattlepi.nwsource.com/tv/archives/005319.html",
+          "description": ""
+        }
+      ],
+      "approximate": true,
+      "color": "#B33E52",
+      "tags": [
+        "Article"
+      ]
+    },
+    {
+      "id": "event-001018528288",
+      "type": "event",
+      "title": "Photoshoot for People magazine",
+      "date": 2005.8333333333333,
+      "groupId": "g-4",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-11-01",
+      "approximate": true,
+      "noteFile": "event-001018528288.md",
+      "sources": [
+        {
+          "title": "Post by riotgirl77",
+          "url": "https://supernatural-tv.livejournal.com/62766.html",
+          "description": ""
+        },
+        {
+          "title": "Post by Simone",
+          "url": "https://sn-daily.livejournal.com/3385.html",
+          "description": ""
+        },
+        {
+          "title": "Post by non-supernatural",
+          "url": "https://www.tumblr.com/reddieandwaiting87/735075678731599872",
+          "description": ""
+        },
+        {
+          "title": "Rosemay Mansion sale webpage 1",
+          "url": "https://604now.com/rosemary-estate-tudor-mansion-vancouver-bc/",
+          "description": ""
+        },
+        {
+          "title": "Rosemary Mansion sale webpage 2",
+          "url": "https://storeys.com/vancouvers-107-year-old-tudor-mansion-3689-selkirk/",
+          "description": ""
+        },
+        {
+          "title": "Rosemary Mansion sale webpage 3",
+          "url": "https://www.zolo.ca/vancouver-real-estate/3689-selkirk-street",
+          "description": ""
+        },
+        {
+          "title": "Rosemary Mansion sale webpage 4",
+          "url": "https://604now.com/rosemary-estate-tudor-mansion-vancouver-bc/",
+          "description": ""
+        },
+        {
+          "title": "Rosemary Mansion video",
+          "url": "https://www.youtube.com/watch?v=ppATvVw_U00",
+          "description": ""
+        },
+        {
+          "title": "Filmbooster pictures",
+          "url": "https://www.filmbooster.com/film/221648-supernatural/462405-season-1/gallery/promo/",
+          "description": ""
+        }
+      ],
+      "color": "#653EB3",
+      "tags": [
+        "Photoshoot"
+      ]
+    },
+    {
+      "id": "event-002108269884",
+      "type": "event",
+      "title": "Zap2it : The Men Who Would Be Dean",
+      "date": 2005.5645161290322,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-07-25",
+      "color": "#B33E52",
+      "sources": [
+        {
+          "title": "Archived article link",
+          "url": "https://web.archive.org/web/20050727014542/http://tv.zap2it.com/tveditorial/tve_main/1,1002,271%7C96558%7C1%7C,00.html",
+          "description": ""
+        }
+      ],
+      "noteFile": "event-002108269884.md",
+      "tags": [
+        "Article"
+      ],
+      "thumbnail": "25-07-2005 Zap2it.png",
+      "thumbnailStyle": "strip"
+    },
+    {
+      "id": "event-002144252687",
+      "type": "event",
+      "title": "Media Week: Live from the tca summer press tour in los angeles on the wb panelfront",
+      "date": 2005.5672043010752,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "dotted",
+      "eventBorderStyle": "dotted",
+      "dateLabel": "2005-07-26",
+      "approximate": true,
+      "noteFile": "event-002144252687.md",
+      "sources": [
+        {
+          "title": "Article link (not archived)",
+          "url": "http://news.yahoo.com/news?tmpl=story&u=/mediaweek/20050725/ad_bpimw/livefromthetcasummerpresstourinlosangelesonthewbpanelfront",
+          "description": ""
+        },
+        {
+          "title": "~Maz~ post at Fan Forum",
+          "url": "https://www.fanforum.com/f222/about-show-news-countdown-48369/index7.html",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52"
+    },
+    {
+      "id": "event-001919793870",
+      "type": "event",
+      "title": "The Mercury News: New WB drama 'Supernatural' gets Internet jump",
+      "date": 2005.6805555555557,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "dateLabel": "2005-09-06",
+      "approximate": true,
+      "noteFile": "event-001919793870.md",
+      "sources": [
+        {
+          "title": "~Maz~  at Fan Forum",
+          "url": "https://www.fanforum.com/f222/about-show-news-countdown-48369/index15.html",
+          "description": ""
+        },
+        {
+          "title": "Link to the non archived page",
+          "url": "http://www.mercurynews.com/mld/mercurynews/news/local/states/california/northern_california/12569933.htm",
+          "description": ""
+        },
+        {
+          "title": "The Mercury News archived page 04/09/2005",
+          "url": "https://web.archive.org/web/20050904104846/http://www.mercurynews.com/mld/mercurynews/news/local/states/california/northern_california/",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52"
+    },
+    {
+      "id": "event-003526834302",
+      "type": "event",
+      "title": "Yahoo! TV: TV sneak peak",
+      "date": 2005.6805555555557,
+      "groupId": "g-4",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-09-06",
+      "noteFile": "event-003526834302.md",
+      "sources": [
+        {
+          "title": "Archived preview",
+          "url": "https://web.archive.org/web/20051024002120/http://tv.yahoo.com/feature/supernatural.html",
+          "description": ""
+        },
+        {
+          "title": "Bent137 post",
+          "url": "https://www.fanforum.com/f222/about-show-news-countdown-48369/index15.html",
+          "description": ""
+        }
+      ],
+      "color": "#653EB3"
+    },
+    {
+      "id": "event-000906973884",
+      "type": "event",
+      "title": "The Arizona Daily Star: WB's 'Supernatural' aims to startle",
+      "date": 2005.6944444444446,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-09-11",
+      "noteFile": "event-000906973884.md",
+      "sources": [
+        {
+          "title": "~Maz~ post",
+          "url": "https://www.fanforum.com/f222/about-show-news-countdown-48369/index19.html",
+          "description": ""
+        },
+        {
+          "title": "Non archived link",
+          "url": "http://www.dailystar.com/dailystar/accent/92554.php",
+          "description": ""
+        },
+        {
+          "title": "Archived website 11/09/2005",
+          "url": "https://web.archive.org/web/20050912140151/http://www.dailystar.com/dailystar/dailystar/",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52",
+      "tags": [
+        "Article"
+      ]
+    },
+    {
+      "id": "event-000433629841",
+      "type": "event",
+      "title": "KTLA: Supernatural",
+      "date": 2005.6021505376343,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "dotted",
+      "eventBorderStyle": "dotted",
+      "dateLabel": "2005-08-08",
+      "noteFile": "event-000433629841.md",
+      "sources": [
+        {
+          "title": "~Maz~ post",
+          "url": "https://www.fanforum.com/f222/about-show-news-countdown-48369/index10.html",
+          "description": ""
+        },
+        {
+          "title": "Non archived link",
+          "url": "http://ktla.trb.com/entertainment/wbnetwork/stv-supernatural-pkg,0,3859212.special?coll=ktla-default-nav&fif",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52"
+    },
+    {
+      "id": "event-003654826188",
+      "type": "event",
+      "title": "Entertainment Weekly: Fall TV 2005 poll",
+      "date": 2005.6833333333334,
+      "groupId": "g-4",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-09-07",
+      "approximate": true,
+      "noteFile": "event-003654826188.md",
+      "sources": [
+        {
+          "title": "~Maz~ post",
+          "url": "https://www.fanforum.com/f222/about-show-news-countdown-48369/index15.html",
+          "description": ""
+        },
+        {
+          "title": "Archived poll",
+          "url": "https://web.archive.org/web/20051228081447/http://www.ew.com/ew/article/poll/0,6115,1099525_3%7C%7C1099166%7C0_0_,00.html",
+          "description": ""
+        }
+      ],
+      "color": "#653EB3"
+    },
+    {
+      "id": "event-001020757454",
+      "type": "event",
+      "title": "The Hollywood Reporter: Supernatural",
+      "date": 2005.6972222222223,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-09-12",
+      "color": "#B33E52",
+      "noteFile": "event-001020757454.md",
+      "sources": [
+        {
+          "title": "~Maz~ post",
+          "url": "https://www.fanforum.com/f222/news-thread-2-because-wait-finally-over-53965/",
+          "description": ""
+        },
+        {
+          "title": "Archived article",
+          "url": "https://web.archive.org/web/20051217183317/http://www.hollywoodreporter.com/thr/reviews/review_display.jsp?vnu_content_id=1001096108",
+          "description": ""
+        }
+      ],
+      "tags": [
+        "Article"
+      ]
+    },
+    {
+      "id": "event-000581984140",
+      "type": "event",
+      "title": "Hollywood North Reporter: Supernatural Scares Up The Right Formula",
+      "date": 2005.6972222222223,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "dateLabel": "2005-09-12",
+      "tags": [
+        "Article"
+      ],
+      "noteFile": "event-000581984140.md",
+      "sources": [
+        {
+          "title": "~Maz~ post",
+          "url": "https://www.fanforum.com/f222/news-thread-2-because-wait-finally-over-53965/",
+          "description": ""
+        },
+        {
+          "title": "Non-archived link",
+          "url": "http://www.hollywoodnorthreport.com/article.php?Article=1743",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52"
+    },
+    {
+      "id": "span-003833216405",
+      "type": "span",
+      "title": "1.15",
+      "start": 2005.9516129032259,
+      "end": 2005.9569892473119,
+      "groupId": "g-main",
+      "color": "#9ECAE1",
+      "startLabel": "2005-12-14",
+      "endLabel": "2005-12-16",
+      "spanSize": "thin",
+      "extendFrom": "span-002456716288",
+      "noteFile": "span-003833216405.md",
+      "description": "The Benders",
+      "tags": [
+        "Season 1",
+        "Filming",
+        "Peter Ellis Dir.",
+        "John Shiban Scr."
+      ],
+      "approxStart": true,
+      "approxEnd": true
+    },
+    {
+      "id": "event-002946114399",
+      "type": "event",
+      "title": "TCA awards",
+      "date": 2005.5591397849462,
+      "groupId": "g-7",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-07-23",
+      "color": "#B3823E"
+    },
+    {
+      "id": "event-004129932929",
+      "type": "event",
+      "title": "WB58 Interview (clips)",
+      "date": 2005.6833333333334,
+      "groupId": "g-4",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-09-07",
+      "noteFile": "event-004129932929.md",
+      "color": "#653EB3",
+      "sources": [
+        {
+          "title": "WB58 webpage",
+          "url": "https://web.archive.org/web/20050907095134/http://www.wb58tv.com/index.html",
+          "description": ""
+        },
+        {
+          "title": "WB58 webpage, early mention",
+          "url": "https://web.archive.org/web/20050827163512/http://www.wb58tv.com/index.html",
+          "description": ""
+        },
+        {
+          "title": "WB58 interview webpage",
+          "url": "https://web.archive.org/web/20060116184742/http://www.wb58tv.com/90132/page.html",
+          "description": ""
+        },
+        {
+          "title": "supernatural.tv archived webpage",
+          "url": "https://web.archive.org/web/20080206072446/https://www.supernatural.tv/media/s1interviews.htm",
+          "description": ""
+        },
+        {
+          "title": "Video 1",
+          "url": "https://www.youtube.com/watch?v=B3aMVp-ytj8&t=1s",
+          "description": ""
+        },
+        {
+          "title": "Video 2",
+          "url": "https://www.youtube.com/watch?v=4i_wXLTDV0s",
+          "description": ""
+        },
+        {
+          "title": "Video 3",
+          "url": "https://www.youtube.com/watch?v=b3ZWXjsVtrQ",
+          "description": ""
+        },
+        {
+          "title": "Video 4",
+          "url": "https://www.youtube.com/watch?v=LoTvA0jTfEE",
+          "description": ""
+        },
+        {
+          "title": "Video 5",
+          "url": "https://www.youtube.com/watch?v=ZGEHMXLdzfk",
+          "description": ""
+        },
+        {
+          "title": "WB58 later website version",
+          "url": "https://web.archive.org/web/20070105004645/http://www.my58.com/90132/page.html",
+          "description": ""
+        },
+        {
+          "title": "supernaturalwiki interviews webpage",
+          "url": "https://supernaturalwiki.com/Interviews",
+          "description": ""
+        },
+        {
+          "title": "Fatima TomsEnough archived videos",
+          "url": "https://www.youtube.com/watch?v=yEtykqhGb-c&list=PL-setZTXSWzemEVA3aSC1D7eMd6rhdvdH&index=2",
+          "description": ""
+        }
+      ],
+      "tags": [
+        "Interview"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "event-002128365673",
+      "type": "event",
+      "title": "WB interview with Jensen Ackles ",
+      "date": 2005.4166666666667,
+      "groupId": "g-4",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "approximate": true,
+      "dateLabel": "2005-06-01",
+      "noteFile": "event-002128365673.md",
+      "sources": [
+        {
+          "title": "SupernaturalSource video",
+          "url": "https://www.youtube.com/watch?v=u042wpo74HI",
+          "description": ""
+        },
+        {
+          "title": "SupernaturalForo",
+          "url": "https://www.youtube.com/watch?v=nrn60BeHqmE",
+          "description": ""
+        },
+        {
+          "title": "YourVIXeNbelow video",
+          "url": "https://www.youtube.com/watch?v=EJ6mnfOMC7c",
+          "description": ""
+        },
+        {
+          "title": "supernatural.4fans.net",
+          "url": "https://web.archive.org/web/20071030213538/http://supernatural.4fans.net/_gallery/displayimage.php?album=toprated&cat=0&pos=14",
+          "description": ""
+        },
+        {
+          "title": "supernaturalfan.net",
+          "url": "https://web.archive.org/web/20060209073625/http://www.supernaturalfan.net/",
+          "description": ""
+        },
+        {
+          "title": "supernatural.tv",
+          "url": "https://web.archive.org/web/20080701025156/http://www.supernatural.tv/media/media.htm",
+          "description": ""
+        }
+      ],
+      "tags": [
+        "Interview"
+      ],
+      "color": "#653EB3"
+    },
+    {
+      "id": "event-001244624121",
+      "type": "event",
+      "title": "WB rant interviews Jensen Ackles and Jared Padalecki",
+      "date": 2005.7,
+      "groupId": "g-4",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-09-13",
+      "approximate": true,
+      "color": "#653EB3",
+      "sources": [
+        {
+          "title": "WB webpage",
+          "url": "https://web.archive.org/web/20051028002450/http://thewb.warnerbros.com/web/show.jsp?id=SN",
+          "description": ""
+        },
+        {
+          "title": "SupernaturalForo videos",
+          "url": "https://www.youtube.com/@Supernaturalforo/search?query=random%20rant",
+          "description": ""
+        },
+        {
+          "title": "supernatural.tv website",
+          "url": "https://web.archive.org/web/20080206072446/https://www.supernatural.tv/media/s1interviews.htm",
+          "description": ""
+        }
+      ],
+      "noteFile": "event-001244624121.md",
+      "tags": [
+        "Interview"
+      ]
+    },
+    {
+      "id": "event-004071837424",
+      "type": "event",
+      "title": "The New York Times: Unexplained Phenomena Lurk Behind New Shows",
+      "date": 2005.7,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-09-13",
+      "noteFile": "event-004071837424.md",
+      "sources": [
+        {
+          "title": "~Maz~ post",
+          "url": "https://www.fanforum.com/f222/news-thread-2-because-wait-finally-over-53965/",
+          "description": ""
+        },
+        {
+          "title": "Archived NYT",
+          "url": "https://web.archive.org/web/20140811142728/http://www.nytimes.com/2005/09/13/arts/television/13stan.html",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52",
+      "tags": [
+        "Article"
+      ]
+    },
+    {
+      "id": "event-001835726644",
+      "type": "event",
+      "title": "The Holllywood North Report: Supernatural Scares Up The Right Formula",
+      "date": 2005.6972222222223,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "dateLabel": "2005-09-12",
+      "color": "#B33E52",
+      "noteFile": "event-001835726644.md",
+      "sources": [
+        {
+          "title": "~Maz~ post",
+          "url": "https://www.fanforum.com/f222/news-thread-2-because-wait-finally-over-53965/",
+          "description": ""
+        }
+      ],
+      "tags": [
+        "Article"
+      ]
+    },
+    {
+      "id": "event-004254307275",
+      "type": "event",
+      "title": "New York Daily News",
+      "date": 2005.7,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "dateLabel": "2005-09-13",
+      "noteFile": "event-004254307275.md",
+      "sources": [
+        {
+          "title": "~Maz~ post",
+          "url": "https://www.fanforum.com/f222/news-thread-2-because-wait-finally-over-53965/",
+          "description": ""
+        },
+        {
+          "title": "Non-archived link",
+          "url": "http://www.nydailynews.com/entertainment/story/345714p-295131c.html",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52",
+      "tags": [
+        "Article"
+      ]
+    },
+    {
+      "id": "event-002665595046",
+      "type": "event",
+      "title": "SFGate: FALL TV SEASON",
+      "date": 2005.7,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-09-13",
+      "noteFile": "event-002665595046.md",
+      "sources": [
+        {
+          "title": "~Maz~ post",
+          "url": "https://www.fanforum.com/f222/news-thread-2-because-wait-finally-over-53965/",
+          "description": ""
+        },
+        {
+          "title": "Archived article",
+          "url": "https://web.archive.org/web/20050915033529/http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/09/13/DDG9SELB0U1.DTL&type=tvradio",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52",
+      "tags": [
+        "Article"
+      ]
+    },
+    {
+      "id": "event-000212385158",
+      "type": "event",
+      "title": "USA Today: Supernatural' frightens nicely",
+      "date": 2005.7,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-09-13",
+      "noteFile": "event-000212385158.md",
+      "sources": [
+        {
+          "title": "~Maz ~ post",
+          "url": "https://www.fanforum.com/f222/news-thread-2-because-wait-finally-over-53965/",
+          "description": ""
+        },
+        {
+          "title": "Archived article",
+          "url": "https://web.archive.org/web/20050914110815/https://www.usatoday.com/life/television/reviews/2005-09-12-supernatural_x.htm",
+          "description": ""
+        }
+      ],
+      "thumbnail": "13-09-2005 USA Today .png",
+      "color": "#B33E52",
+      "tags": [
+        "Article"
+      ]
+    },
+    {
+      "id": "event-002681919826",
+      "type": "event",
+      "title": "Boston.com: 'Supernatural' goes south in a hurry",
+      "date": 2005.7,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "dashed",
+      "eventBorderStyle": "dashed",
+      "dateLabel": "2005-09-13",
+      "noteFile": "event-002681919826.md",
+      "sources": [
+        {
+          "title": "~Maz~ post",
+          "url": "https://www.fanforum.com/f222/news-thread-2-because-wait-finally-over-53965/",
+          "description": ""
+        },
+        {
+          "title": "Non-archived link",
+          "url": "http://www.boston.com/ae/tv/articles/2005/09/13/supernatural_goes_south_in_a_hurry/?rss_id=Boston+Globe+--+Living+%2F+Arts+News",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52",
+      "tags": [
+        "Article"
+      ]
+    },
+    {
+      "id": "event-002601798005",
+      "type": "event",
+      "title": "Now Playing Magazine: Supernatural – “Pilot”  ",
+      "date": 2005.7,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-09-13",
+      "noteFile": "event-002601798005.md",
+      "sources": [
+        {
+          "title": "~Maz~ post",
+          "url": "https://www.fanforum.com/f222/news-thread-2-because-wait-finally-over-53965/",
+          "description": ""
+        },
+        {
+          "title": "Archived article",
+          "url": "https://web.archive.org/web/20051109184334/http://www.nowplayingmag.com/content/view/2180/47/",
+          "description": ""
+        }
+      ],
+      "color": "#B33E52",
+      "tags": [
+        "Article"
+      ]
+    },
+    {
+      "id": "event-003179364305",
+      "type": "event",
+      "title": "Ain't it cool news: The Creator Of BOOGEYMAN Unleashes SUPERNATURAL!! ",
+      "date": 2005.7,
+      "groupId": "g-3",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-09-13",
+      "color": "#B33E52",
+      "tags": [
+        "Article"
+      ],
+      "noteFile": "event-003179364305.md",
+      "sources": [
+        {
+          "title": "~Maz~ post",
+          "url": "https://www.fanforum.com/f222/news-thread-2-because-wait-finally-over-53965/",
+          "description": ""
+        },
+        {
+          "title": "Archived article",
+          "url": "https://web.archive.org/web/20051203183951/http://www.aintitcool.com/display.cgi?id=21250",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "event-001158160192",
+      "type": "event",
+      "title": "Pilot photoshoot",
+      "date": 2005.1854838709678,
+      "groupId": "g-4",
+      "parents": [],
+      "eventLineStyle": "solid",
+      "eventBorderStyle": "solid",
+      "dateLabel": "2005-03-08",
+      "approximate": true,
+      "noteFile": "event-001158160192.md",
+      "sources": [
+        {
+          "title": "FilmBooster",
+          "url": "https://www.filmbooster.com/film/221648-supernatural/462405-season-1/gallery/promo/",
+          "description": ""
+        },
+        {
+          "title": "Travellerintime #prps1",
+          "url": "https://www.tumblr.com/travellerintime/tagged/prps1",
+          "description": ""
+        },
+        {
+          "title": "Travellerintime blog",
+          "url": "https://www.tumblr.com/travellerintime",
+          "description": ""
+        },
+        {
+          "title": "TV guide gallery",
+          "url": "https://www.tvguide.com/galleries/supernatural-season-posters-photos/13/",
+          "description": ""
+        },
+        {
+          "title": "Yelp webpage",
+          "url": "https://www.yelp.com/biz/club-ed-lancaster",
+          "description": ""
+        }
+      ],
+      "color": "#653EB3",
+      "tags": [
+        "Photoshoot"
+      ]
+    }
+  ]
+}
